@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Klub>
+    <Naziv>NK Varazdin</Naziv>
+    <Grad>Varazdin</Grad>
+    <Stadion>Stadion Andelko Herjavec</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>Istra 1961</Naziv>
+    <Grad>Pula</Grad>
+    <Stadion>Aldo Drosina</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>HNK Gorica</Naziv>
+    <Grad>Velika Gorica</Grad>
+    <Stadion>Gradski stadion Velika Gorica</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>NK Osijek</Naziv>
+    <Grad>Osijek</Grad>
+    <Stadion>Gradski vrt</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>NK Lokomotiva</Naziv>
+    <Grad>Zagreb</Grad>
+    <Stadion>Kranjceviceva</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>HNK Rijeka</Naziv>
+    <Grad>Rijeka</Grad>
+    <Stadion>Rujevica</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>Slaven Belupo</Naziv>
+    <Grad>Koprivnica</Grad>
+    <Stadion>Gradski stadion Ivan Kusek Apas</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>NK Inter Zapresic</Naziv>
+    <Grad>Zapresic</Grad>
+    <Stadion>SRC Zapresic</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>Dinamo</Naziv>
+    <Grad>Zagreb</Grad>
+    <Stadion>Maksimir</Stadion>
+  </Klub>
+  <Klub>
+    <Naziv>Hajduk</Naziv>
+    <Grad>Split</Grad>
+    <Stadion>Poljud</Stadion>
+  </Klub>
+</data>

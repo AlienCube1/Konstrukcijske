@@ -1,0 +1,1100 @@
+12/8/19 7:50:42 AM - Pokretanje programa
+12/8/19 7:50:42 AM - Pokretanje glavnog izbornika
+12/8/19 7:50:47 AM - Odabran prikaz klubova i igraca
+12/8/19 7:54:53 AM - Pokretanje programa
+12/8/19 7:54:53 AM - Pokretanje glavnog izbornika
+12/8/19 7:54:57 AM - Pokretanje glavnog izbornika
+12/8/19 7:57:15 AM - Pokretanje programa
+12/8/19 7:57:15 AM - Pokretanje glavnog izbornika
+12/8/19 7:57:17 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:05 AM - Pokretanje programa
+12/8/19 7:59:05 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:09 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:14 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:18 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:18 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:19 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:20 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:20 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:21 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:21 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:22 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:22 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:22 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:23 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:23 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:24 AM - Pokretanje glavnog izbornika
+12/8/19 7:59:24 AM - Pokretanje glavnog izbornika
+12/8/19 8:00:37 AM - Pokretanje programa
+12/8/19 8:00:37 AM - Pokretanje glavnog izbornika
+12/8/19 8:01:19 AM - Pokretanje programa
+12/8/19 8:01:19 AM - Pokretanje glavnog izbornika
+12/8/19 8:01:22 AM - Pokrenuta simulacija utakmica
+12/8/19 8:01:24 AM - Pokretanje glavnog izbornika
+12/8/19 8:01:25 AM - Pokrenuta simulacija utakmica
+12/8/19 8:01:26 AM - Pokretanje glavnog izbornika
+12/8/19 8:01:26 AM - Pokrenuta simulacija utakmica
+12/8/19 8:01:27 AM - Pokretanje glavnog izbornika
+12/8/19 8:21:21 AM - Pokretanje programa
+12/8/19 8:21:21 AM - Pokretanje glavnog izbornika
+12/8/19 8:21:39 AM - Pokrenuta simulacija utakmica
+12/8/19 8:21:49 AM - Pokretanje glavnog izbornika
+12/8/19 8:21:59 AM - Obrisan igracIme101 Prezime101
+12/8/19 8:22:00 AM - Pokretanje glavnog izbornika
+12/8/19 8:22:01 AM - Pokrenuta simulacija utakmica
+12/8/19 8:22:04 AM - Pokretanje glavnog izbornika
+12/8/19 8:22:15 AM - Pokretanje programa
+12/8/19 8:22:15 AM - Pokretanje glavnog izbornika
+12/8/19 8:32:49 AM - Pokretanje programa
+12/8/19 8:32:49 AM - Pokretanje glavnog izbornika
+12/8/19 8:32:52 AM - Pokrenuta simulacija utakmica
+12/8/19 8:32:58 AM - Pokretanje glavnog izbornika
+12/8/19 8:33:11 AM - Obrisan igracIme109 Prezime109
+12/8/19 8:33:13 AM - Pokretanje glavnog izbornika
+12/8/19 8:33:14 AM - Pokrenuta simulacija utakmica
+12/8/19 8:33:14 AM - Pokretanje glavnog izbornika
+12/8/19 8:34:10 AM - Pokretanje programa
+12/8/19 8:34:10 AM - Pokretanje glavnog izbornika
+12/8/19 8:34:13 AM - Pokrenuta simulacija utakmica
+12/8/19 8:34:13 AM - Pokretanje glavnog izbornika
+12/8/19 8:34:53 AM - Pokretanje programa
+12/8/19 8:34:53 AM - Pokretanje glavnog izbornika
+12/8/19 8:34:55 AM - Pokrenuta simulacija utakmica
+12/8/19 8:34:57 AM - Pokretanje glavnog izbornika
+12/8/19 8:35:03 AM - Pokrenuta simulacija utakmica
+12/8/19 8:35:11 AM - Pokretanje glavnog izbornika
+12/8/19 8:35:22 AM - Pokretanje programa
+12/8/19 8:35:22 AM - Pokretanje glavnog izbornika
+12/8/19 8:35:32 AM - Pokretanje programa
+12/8/19 8:35:33 AM - Pokretanje glavnog izbornika
+12/8/19 8:35:39 AM - Obrisan klub Hajduk
+12/8/19 8:35:42 AM - Pokretanje glavnog izbornika
+12/8/19 8:35:43 AM - Pokrenuta simulacija utakmica
+12/8/19 8:36:01 AM - Pokretanje glavnog izbornika
+12/8/19 9:27:28 AM - Pokretanje programa
+12/8/19 9:27:28 AM - Pokretanje glavnog izbornika
+12/8/19 9:27:30 AM - Pokrenuta simulacija utakmica
+12/8/19 9:28:22 AM - Pokretanje programa
+12/8/19 9:28:22 AM - Pokretanje glavnog izbornika
+12/8/19 9:28:26 AM - Pokrenuta simulacija utakmica
+12/8/19 9:30:37 AM - Pokretanje programa
+12/8/19 9:30:37 AM - Pokretanje glavnog izbornika
+12/8/19 9:30:39 AM - Pokrenuta simulacija utakmica
+12/8/19 9:31:18 AM - Pokretanje programa
+12/8/19 9:31:18 AM - Pokretanje glavnog izbornika
+12/8/19 9:31:22 AM - Pokrenuta simulacija utakmica
+12/8/19 9:31:55 AM - Pokretanje programa
+12/8/19 9:31:55 AM - Pokretanje glavnog izbornika
+12/8/19 9:31:57 AM - Pokrenuta simulacija utakmica
+12/8/19 9:32:37 AM - Pokretanje programa
+12/8/19 9:32:37 AM - Pokretanje glavnog izbornika
+12/8/19 9:32:39 AM - Pokrenuta simulacija utakmica
+12/8/19 9:33:47 AM - Pokretanje programa
+12/8/19 9:33:47 AM - Pokretanje glavnog izbornika
+12/8/19 9:33:49 AM - Pokrenuta simulacija utakmica
+12/8/19 9:35:12 AM - Pokretanje programa
+12/8/19 9:35:12 AM - Pokretanje glavnog izbornika
+12/8/19 9:35:14 AM - Pokrenuta simulacija utakmica
+12/8/19 9:42:18 AM - Pokretanje programa
+12/8/19 9:42:18 AM - Pokretanje glavnog izbornika
+12/8/19 9:42:19 AM - Pokrenuta simulacija utakmica
+12/8/19 9:43:23 AM - Pokretanje programa
+12/8/19 9:43:23 AM - Pokretanje glavnog izbornika
+12/8/19 9:43:29 AM - Pokrenuta simulacija utakmica
+12/8/19 9:45:01 AM - Pokretanje programa
+12/8/19 9:45:01 AM - Pokretanje glavnog izbornika
+12/8/19 9:45:42 AM - Pokrenuta simulacija utakmica
+12/8/19 9:47:32 AM - Pokretanje glavnog izbornika
+12/8/19 9:47:34 AM - Pokrenuta simulacija utakmica
+12/8/19 9:52:13 AM - Pokretanje programa
+12/8/19 9:52:13 AM - Pokretanje glavnog izbornika
+12/8/19 9:52:28 AM - Pokrenuta simulacija utakmica
+12/8/19 9:54:46 AM - Pokretanje programa
+12/8/19 9:54:46 AM - Pokretanje glavnog izbornika
+12/8/19 9:55:07 AM - Pokrenuta simulacija utakmica
+12/8/19 9:55:08 AM - Pokretanje glavnog izbornika
+12/8/19 9:56:04 AM - Pokretanje programa
+12/8/19 9:56:04 AM - Pokretanje glavnog izbornika
+12/8/19 9:56:06 AM - Pokrenuta simulacija utakmica
+12/8/19 9:56:29 AM - Pokretanje glavnog izbornika
+12/8/19 9:56:47 AM - Pokretanje programa
+12/8/19 9:56:47 AM - Pokretanje glavnog izbornika
+12/8/19 9:56:56 AM - Pokrenuta simulacija utakmica
+12/8/19 9:57:34 AM - Pokretanje programa
+12/8/19 9:57:34 AM - Pokretanje glavnog izbornika
+12/8/19 9:57:36 AM - Pokrenuta simulacija utakmica
+12/8/19 10:00:31 AM - Pokretanje programa
+12/8/19 10:00:31 AM - Pokretanje glavnog izbornika
+12/8/19 10:00:33 AM - Pokrenuta simulacija utakmica
+12/8/19 10:02:31 AM - Pokretanje programa
+12/8/19 10:02:31 AM - Pokretanje glavnog izbornika
+12/8/19 10:02:36 AM - Pokrenuta simulacija utakmica
+12/8/19 10:05:30 AM - Pokretanje programa
+12/8/19 10:05:30 AM - Pokretanje glavnog izbornika
+12/8/19 10:06:01 AM - Pokrenuta simulacija utakmica
+12/8/19 10:09:13 AM - Pokretanje programa
+12/8/19 10:09:13 AM - Pokretanje glavnog izbornika
+12/8/19 10:11:10 AM - Pokrenuta simulacija utakmica
+12/8/19 10:15:08 AM - Pokretanje programa
+12/8/19 10:15:08 AM - Pokretanje glavnog izbornika
+12/8/19 10:15:09 AM - Pokrenuta simulacija utakmica
+12/8/19 10:26:21 AM - Pokretanje programa
+12/8/19 10:26:21 AM - Pokretanje glavnog izbornika
+12/8/19 10:26:26 AM - Pokrenuta simulacija utakmica
+12/8/19 10:26:48 AM - Pokretanje programa
+12/8/19 10:26:48 AM - Pokretanje glavnog izbornika
+12/8/19 10:26:50 AM - Pokrenuta simulacija utakmica
+12/8/19 10:27:39 AM - Pokretanje programa
+12/8/19 10:27:39 AM - Pokretanje glavnog izbornika
+12/8/19 10:27:44 AM - Pokrenuta simulacija utakmica
+12/8/19 10:28:14 AM - Pokretanje programa
+12/8/19 10:28:14 AM - Pokretanje glavnog izbornika
+12/8/19 10:28:16 AM - Pokrenuta simulacija utakmica
+12/8/19 10:29:18 AM - Pokretanje programa
+12/8/19 10:29:18 AM - Pokretanje glavnog izbornika
+12/8/19 10:29:19 AM - Pokrenuta simulacija utakmica
+12/8/19 10:30:19 AM - Pokretanje programa
+12/8/19 10:30:19 AM - Pokretanje glavnog izbornika
+12/8/19 10:30:21 AM - Pokrenuta simulacija utakmica
+12/8/19 10:30:54 AM - Pokretanje programa
+12/8/19 10:30:54 AM - Pokretanje glavnog izbornika
+12/8/19 10:30:57 AM - Pokrenuta simulacija utakmica
+12/8/19 10:35:19 AM - Pokretanje programa
+12/8/19 10:35:19 AM - Pokretanje glavnog izbornika
+12/8/19 10:35:24 AM - Pokrenuta simulacija utakmica
+12/8/19 10:37:25 AM - Pokretanje programa
+12/8/19 10:37:25 AM - Pokretanje glavnog izbornika
+12/8/19 10:37:31 AM - Pokrenuta simulacija utakmica
+12/8/19 10:40:33 AM - Pokretanje programa
+12/8/19 10:40:33 AM - Pokretanje glavnog izbornika
+12/8/19 10:40:44 AM - Pokrenuta simulacija utakmica
+12/8/19 10:49:10 AM - Pokretanje programa
+12/8/19 10:49:10 AM - Pokretanje glavnog izbornika
+12/8/19 10:49:11 AM - Pokrenuta simulacija utakmica
+12/8/19 10:51:05 AM - Pokretanje programa
+12/8/19 10:51:05 AM - Pokretanje glavnog izbornika
+12/8/19 10:51:07 AM - Pokrenuta simulacija utakmica
+12/8/19 10:53:58 AM - Pokretanje programa
+12/8/19 10:53:58 AM - Pokretanje glavnog izbornika
+12/8/19 10:54:07 AM - Pokrenuta simulacija utakmica
+12/8/19 10:55:49 AM - Pokretanje programa
+12/8/19 10:55:49 AM - Pokretanje glavnog izbornika
+12/8/19 10:56:03 AM - Pokrenuta simulacija utakmica
+12/8/19 10:56:57 AM - Pokretanje programa
+12/8/19 10:56:57 AM - Pokretanje glavnog izbornika
+12/8/19 10:57:12 AM - Pokrenuta simulacija utakmica
+12/8/19 11:00:16 AM - Pokretanje programa
+12/8/19 11:00:16 AM - Pokretanje glavnog izbornika
+12/8/19 11:00:18 AM - Pokrenuta simulacija utakmica
+12/8/19 11:01:39 AM - Pokretanje programa
+12/8/19 11:01:39 AM - Pokretanje glavnog izbornika
+12/8/19 11:01:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:03:46 AM - Pokretanje programa
+12/8/19 11:03:46 AM - Pokretanje glavnog izbornika
+12/8/19 11:03:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:04:55 AM - Pokretanje programa
+12/8/19 11:04:55 AM - Pokretanje glavnog izbornika
+12/8/19 11:04:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:13:50 AM - Pokretanje programa
+12/8/19 11:13:50 AM - Pokretanje glavnog izbornika
+12/8/19 11:13:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:14:55 AM - Pokretanje programa
+12/8/19 11:14:55 AM - Pokretanje glavnog izbornika
+12/8/19 11:15:09 AM - Pokrenuta simulacija utakmica
+12/8/19 11:19:55 AM - Pokretanje programa
+12/8/19 11:19:55 AM - Pokretanje glavnog izbornika
+12/8/19 11:19:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:27 AM - Pokretanje programa
+12/8/19 11:23:27 AM - Pokretanje glavnog izbornika
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:29 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:30 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:31 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:32 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:33 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:34 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:35 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:36 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:37 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:38 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:39 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:40 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:41 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:42 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:43 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:44 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:45 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:46 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:47 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:48 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:49 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:50 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:50 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:51 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:52 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:52 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:52 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:53 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:54 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:55 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:56 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:57 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:58 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:23:59 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:00 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:00 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:00 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:00 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:01 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:02 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:03 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:03 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:03 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:03 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:03 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:24:04 AM - Pokrenuta simulacija utakmica
+12/8/19 11:28:26 AM - Pokretanje programa
+12/8/19 11:28:26 AM - Pokretanje glavnog izbornika
+12/8/19 11:28:30 AM - Pokrenuta simulacija utakmica
+12/8/19 4:03:13 PM - Pokretanje programa
+12/8/19 4:03:13 PM - Pokretanje glavnog izbornika
+12/8/19 4:03:17 PM - Pokrenuta simulacija utakmica
+12/8/19 4:04:15 PM - Pokretanje programa
+12/8/19 4:04:15 PM - Pokretanje glavnog izbornika
+12/8/19 4:04:17 PM - Pokrenuta simulacija utakmica
+12/8/19 5:36:33 PM - Pokretanje programa
+12/8/19 5:36:33 PM - Pokretanje glavnog izbornika
+12/8/19 5:36:51 PM - Odabran prikaz klubova i igraca
+12/8/19 5:37:11 PM - Pokretanje glavnog izbornika
+12/8/19 5:37:13 PM - Pokrenuta simulacija utakmica
+12/8/19 5:41:59 PM - Pokretanje programa
+12/8/19 5:41:59 PM - Pokretanje glavnog izbornika
+12/8/19 5:42:03 PM - Pokretanje glavnog izbornika
+12/8/19 6:02:14 PM - Pokretanje programa
+12/8/19 6:02:14 PM - Pokretanje glavnog izbornika
+12/8/19 6:02:20 PM - Prikaz rang liste
+12/8/19 6:02:20 PM - Pokretanje glavnog izbornika
+12/8/19 6:02:52 PM - Pokretanje programa
+12/8/19 6:02:52 PM - Pokretanje glavnog izbornika
+12/8/19 6:02:54 PM - Prikaz rang liste
+12/8/19 6:02:54 PM - Pokretanje glavnog izbornika
+12/8/19 6:09:51 PM - Pokretanje programa
+12/8/19 6:09:51 PM - Pokretanje glavnog izbornika
+12/8/19 6:09:52 PM - Prikaz rang liste
+12/8/19 6:09:52 PM - Pokretanje glavnog izbornika
+12/8/19 6:15:18 PM - Pokretanje programa
+12/8/19 6:15:19 PM - Pokretanje glavnog izbornika
+12/8/19 6:15:20 PM - Prikaz rang liste
+12/8/19 6:15:20 PM - Pokretanje glavnog izbornika
+12/8/19 6:29:34 PM - Pokretanje programa
+12/8/19 6:29:35 PM - Pokretanje glavnog izbornika
+12/8/19 6:29:41 PM - Prikaz rang liste
+12/8/19 6:29:41 PM - Pokretanje glavnog izbornika
+12/8/19 6:31:32 PM - Pokretanje programa
+12/8/19 6:31:32 PM - Pokretanje glavnog izbornika
+12/8/19 6:31:34 PM - Prikaz rang liste
+12/8/19 6:31:34 PM - Pokretanje glavnog izbornika
+12/8/19 6:34:08 PM - Pokretanje programa
+12/8/19 6:34:08 PM - Pokretanje glavnog izbornika
+12/8/19 6:34:10 PM - Prikaz rang liste
+12/8/19 6:34:10 PM - Pokretanje glavnog izbornika
+12/8/19 6:35:10 PM - Pokretanje programa
+12/8/19 6:35:10 PM - Pokretanje glavnog izbornika
+12/8/19 6:35:21 PM - Prikaz rang liste
+12/8/19 6:35:22 PM - Pokretanje glavnog izbornika
+12/8/19 6:36:51 PM - Pokretanje programa
+12/8/19 6:36:51 PM - Pokretanje glavnog izbornika
+12/8/19 6:37:03 PM - Prikaz rang liste
+12/8/19 6:37:03 PM - Pokretanje glavnog izbornika
+12/8/19 6:38:42 PM - Pokretanje programa
+12/8/19 6:38:42 PM - Pokretanje glavnog izbornika
+12/8/19 6:38:44 PM - Prikaz rang liste
+12/8/19 6:38:44 PM - Pokretanje glavnog izbornika
+12/8/19 6:40:12 PM - Pokretanje programa
+12/8/19 6:40:12 PM - Pokretanje glavnog izbornika
+12/8/19 6:40:14 PM - Prikaz rang liste
+12/8/19 6:40:14 PM - Pokretanje glavnog izbornika
+12/8/19 6:40:49 PM - Pokretanje programa
+12/8/19 6:40:49 PM - Pokretanje glavnog izbornika
+12/8/19 6:42:42 PM - Pokretanje programa
+12/8/19 6:42:42 PM - Pokretanje glavnog izbornika
+12/8/19 6:42:58 PM - Prikaz rang liste
+12/8/19 6:42:58 PM - Pokretanje glavnog izbornika
+12/8/19 6:43:43 PM - Pokretanje programa
+12/8/19 6:43:43 PM - Pokretanje glavnog izbornika
+12/8/19 6:43:51 PM - Prikaz rang liste
+12/8/19 6:43:51 PM - Pokretanje glavnog izbornika
+12/8/19 6:53:00 PM - Pokretanje programa
+12/8/19 6:53:00 PM - Pokretanje glavnog izbornika
+12/8/19 6:53:04 PM - Prikaz rang liste
+12/8/19 6:53:04 PM - Pokretanje glavnog izbornika
+12/8/19 6:53:37 PM - Pokretanje programa
+12/8/19 6:53:37 PM - Pokretanje glavnog izbornika
+12/8/19 6:53:42 PM - Prikaz rang liste
+12/8/19 6:53:42 PM - Pokretanje glavnog izbornika
+12/8/19 6:54:12 PM - Pokretanje programa
+12/8/19 6:54:12 PM - Pokretanje glavnog izbornika
+12/8/19 6:54:15 PM - Prikaz rang liste
+12/8/19 6:54:15 PM - Pokretanje glavnog izbornika
+12/8/19 6:55:33 PM - Pokretanje programa
+12/8/19 6:55:33 PM - Pokretanje glavnog izbornika
+12/8/19 6:55:34 PM - Prikaz rang liste
+12/8/19 6:55:34 PM - Pokretanje glavnog izbornika
+12/8/19 6:57:26 PM - Pokretanje programa
+12/8/19 6:57:26 PM - Pokretanje glavnog izbornika
+12/8/19 6:57:30 PM - Prikaz rang liste
+12/8/19 6:57:31 PM - Pokretanje glavnog izbornika
+12/8/19 6:58:53 PM - Pokretanje programa
+12/8/19 6:58:53 PM - Pokretanje glavnog izbornika
+12/8/19 6:58:56 PM - Pokrenuta simulacija utakmica
+12/8/19 6:59:06 PM - Pokretanje programa
+12/8/19 6:59:06 PM - Pokretanje glavnog izbornika
+12/8/19 6:59:11 PM - Prikaz rang liste
+12/8/19 6:59:12 PM - Pokretanje glavnog izbornika
+12/8/19 7:00:55 PM - Pokretanje programa
+12/8/19 7:00:55 PM - Pokretanje glavnog izbornika
+12/8/19 7:01:07 PM - Prikaz rang liste
+12/8/19 7:01:07 PM - Pokretanje glavnog izbornika
+12/8/19 7:02:18 PM - Pokretanje programa
+12/8/19 7:02:18 PM - Pokretanje glavnog izbornika
+12/8/19 7:02:20 PM - Prikaz rang liste
+12/8/19 7:02:20 PM - Pokretanje glavnog izbornika
+12/8/19 7:02:45 PM - Pokretanje programa
+12/8/19 7:02:45 PM - Pokretanje glavnog izbornika
+12/8/19 7:02:46 PM - Prikaz rang liste
+12/8/19 7:02:47 PM - Pokretanje glavnog izbornika
+12/8/19 7:04:12 PM - Pokretanje programa
+12/8/19 7:04:12 PM - Pokretanje glavnog izbornika
+12/8/19 7:04:14 PM - Prikaz rang liste
+12/8/19 7:04:14 PM - Pokretanje glavnog izbornika
+12/8/19 7:05:25 PM - Pokretanje programa
+12/8/19 7:05:25 PM - Pokretanje glavnog izbornika
+12/8/19 7:05:26 PM - Prikaz rang liste
+12/8/19 7:09:52 PM - Pokretanje programa
+12/8/19 7:09:52 PM - Pokretanje glavnog izbornika
+12/8/19 7:09:53 PM - Prikaz rang liste
+12/8/19 7:12:36 PM - Pokretanje programa
+12/8/19 7:12:36 PM - Pokretanje glavnog izbornika
+12/8/19 7:12:39 PM - Prikaz rang liste
+12/8/19 7:12:39 PM - Pokretanje glavnog izbornika
+12/8/19 7:13:27 PM - Pokretanje programa
+12/8/19 7:13:27 PM - Pokretanje glavnog izbornika
+12/8/19 7:13:28 PM - Prikaz rang liste
+12/8/19 7:13:28 PM - Pokretanje glavnog izbornika
+12/8/19 7:14:23 PM - Pokretanje programa
+12/8/19 7:14:23 PM - Pokretanje glavnog izbornika
+12/8/19 7:14:26 PM - Prikaz rang liste
+12/8/19 7:14:26 PM - Pokretanje glavnog izbornika
+12/8/19 7:16:39 PM - Pokretanje programa
+12/8/19 7:16:39 PM - Pokretanje glavnog izbornika
+12/8/19 7:16:40 PM - Prikaz rang liste
+12/8/19 7:16:40 PM - Pokretanje glavnog izbornika
+12/8/19 7:27:49 PM - Pokretanje programa
+12/8/19 7:27:49 PM - Pokretanje glavnog izbornika
+12/8/19 7:27:51 PM - Prikaz rang liste
+12/8/19 7:27:51 PM - Pokretanje glavnog izbornika
+12/8/19 7:28:17 PM - Pokretanje programa
+12/8/19 7:28:17 PM - Pokretanje glavnog izbornika
+12/8/19 7:28:21 PM - Prikaz rang liste
+12/8/19 7:28:21 PM - Pokretanje glavnog izbornika
+12/9/19 11:01:13 AM - Pokretanje programa
+12/9/19 11:01:13 AM - Pokretanje glavnog izbornika
+12/9/19 11:02:34 AM - Pokretanje programa
+12/9/19 11:02:34 AM - Pokretanje glavnog izbornika
+12/9/19 11:02:50 AM - Odabran prikaz klubova i igraca
+12/9/19 11:03:04 AM - Pokretanje glavnog izbornika
+12/9/19 11:03:51 AM - Prikaz rang liste
+12/9/19 11:03:51 AM - Pokretanje glavnog izbornika
+12/9/19 11:05:58 AM - Pokretanje programa
+12/9/19 11:05:58 AM - Pokretanje glavnog izbornika
+12/9/19 11:06:02 AM - Pokrenuta simulacija utakmica
+12/9/19 11:06:21 AM - Pokretanje programa
+12/9/19 11:06:21 AM - Pokretanje glavnog izbornika
+12/9/19 11:06:24 AM - Prikaz rang liste
+12/9/19 11:06:24 AM - Pokretanje glavnog izbornika
+12/9/19 11:12:41 AM - Pokretanje programa
+12/9/19 11:12:41 AM - Pokretanje glavnog izbornika
+12/9/19 11:13:05 AM - Obrisan igrac Ime109 Prezime109
+12/9/19 11:13:08 AM - Pokretanje glavnog izbornika
+12/9/19 11:13:43 AM - Odabran prikaz klubova i igraca
+12/9/19 11:14:00 AM - Pokretanje glavnog izbornika
+12/9/19 11:14:02 AM - Odabran prikaz klubova i igraca
+12/9/19 11:14:17 AM - Pokretanje glavnog izbornika
+12/9/19 11:14:26 AM - Prijelaz Ime109 Prezime109 u Dinamo
+12/9/19 11:16:00 AM - Pokretanje glavnog izbornika
+12/9/19 11:17:27 AM - Pokretanje glavnog izbornika
+12/9/19 11:19:49 AM - Prikaz rang liste
+12/9/19 11:19:49 AM - Pokretanje glavnog izbornika
+12/9/19 11:24:56 AM - Pokretanje programa
+12/9/19 11:24:56 AM - Pokretanje glavnog izbornika
+12/9/19 11:26:26 AM - Prikaz rang liste
+12/9/19 11:26:26 AM - Pokretanje glavnog izbornika
+12/9/19 11:27:44 AM - Pokretanje programa
+12/9/19 11:27:44 AM - Pokretanje glavnog izbornika
+12/10/19 9:03:52 AM - Pokretanje programa
+12/10/19 9:03:53 AM - Pokretanje glavnog izbornika
+12/10/19 9:03:59 AM - Obrisan klub 
+12/10/19 9:03:59 AM - Pokretanje glavnog izbornika
+12/10/19 9:04:30 AM - Pokretanje programa
+12/10/19 9:04:30 AM - Pokretanje glavnog izbornika
+12/10/19 9:05:10 AM - Pokretanje programa
+12/10/19 9:05:10 AM - Pokretanje glavnog izbornika
+12/10/19 9:05:27 AM - Prijelaz 1  u 
+12/10/19 9:08:27 AM - Pokretanje programa
+12/10/19 9:08:27 AM - Pokretanje glavnog izbornika
+12/10/19 9:08:29 AM - Pokrenuta simulacija utakmica
+12/10/19 9:09:14 AM - Pokretanje programa
+12/10/19 9:09:14 AM - Pokretanje glavnog izbornika
+12/10/19 9:09:16 AM - Prikaz rang liste
+12/10/19 9:09:16 AM - Pokretanje glavnog izbornika
+12/10/19 9:15:52 AM - Pokretanje programa
+12/10/19 9:15:52 AM - Pokretanje glavnog izbornika
+12/10/19 9:15:53 AM - Prikaz rang liste
+12/10/19 9:15:53 AM - Pokretanje glavnog izbornika
+12/10/19 9:20:39 AM - Pokretanje programa
+12/10/19 9:20:39 AM - Pokretanje glavnog izbornika
+12/10/19 9:20:42 AM - Pokrenuta simulacija utakmica
+12/10/19 9:21:27 AM - Pokretanje glavnog izbornika
+12/10/19 9:21:58 AM - Pokretanje programa
+12/10/19 9:21:58 AM - Pokretanje glavnog izbornika
+12/10/19 9:21:59 AM - Prikaz rang liste
+12/10/19 9:21:59 AM - Pokretanje glavnog izbornika
+12/10/19 9:22:27 AM - Pokretanje programa
+12/10/19 9:22:27 AM - Pokretanje glavnog izbornika
+12/10/19 9:22:33 AM - Prikaz rang liste
+12/10/19 9:22:34 AM - Pokretanje glavnog izbornika
+12/10/19 9:22:35 AM - Pokrenuta simulacija utakmica
+12/10/19 9:22:37 AM - Pokretanje glavnog izbornika
+12/10/19 9:22:41 AM - Prikaz rang liste
+12/10/19 9:33:27 AM - Pokretanje programa
+12/10/19 9:33:27 AM - Pokretanje glavnog izbornika
+12/10/19 9:33:28 AM - Prikaz rang liste
+12/10/19 9:34:33 AM - Pokretanje programa
+12/10/19 9:34:33 AM - Pokretanje glavnog izbornika
+12/10/19 9:34:34 AM - Prikaz rang liste
+12/10/19 9:39:14 AM - Pokretanje programa
+12/10/19 9:39:14 AM - Pokretanje glavnog izbornika
+12/10/19 9:39:15 AM - Prikaz rang liste
+12/10/19 9:44:16 AM - Pokretanje glavnog izbornika
+12/10/19 9:44:20 AM - Pokretanje programa
+12/10/19 9:44:20 AM - Pokretanje glavnog izbornika
+12/10/19 9:44:21 AM - Prikaz rang liste
+12/10/19 9:51:15 AM - Pokretanje programa
+12/10/19 9:51:15 AM - Pokretanje glavnog izbornika
+12/10/19 9:51:17 AM - Prikaz rang liste
+12/10/19 9:51:38 AM - Pokretanje programa
+12/10/19 9:51:38 AM - Pokretanje glavnog izbornika
+12/10/19 9:51:40 AM - Prikaz rang liste
+12/10/19 9:51:53 AM - Pokretanje programa
+12/10/19 9:51:53 AM - Pokretanje glavnog izbornika
+12/10/19 9:51:54 AM - Prikaz rang liste
+12/10/19 9:52:32 AM - Pokretanje programa
+12/10/19 9:52:32 AM - Pokretanje glavnog izbornika
+12/10/19 9:52:33 AM - Prikaz rang liste
+12/10/19 9:53:27 AM - Pokretanje glavnog izbornika
+12/10/19 10:01:02 AM - Pokretanje programa
+12/10/19 10:01:02 AM - Pokretanje glavnog izbornika
+12/10/19 10:01:04 AM - Prikaz rang liste
+12/10/19 11:19:04 AM - Pokretanje programa
+12/10/19 11:19:04 AM - Pokretanje glavnog izbornika
+12/10/19 11:19:05 AM - Prikaz rang liste
+12/10/19 1:07:01 PM - Pokretanje programa
+12/10/19 1:07:01 PM - Pokretanje glavnog izbornika
+12/10/19 1:07:35 PM - Pokretanje programa
+12/10/19 1:07:35 PM - Pokretanje glavnog izbornika
+12/10/19 1:07:36 PM - Odabran prikaz klubova i igraca
+12/10/19 1:08:04 PM - Pokretanje glavnog izbornika
+12/10/19 1:08:19 PM - Pokrenuta simulacija utakmica
+12/10/19 1:08:30 PM - Pokretanje glavnog izbornika
+12/10/19 1:08:32 PM - Prikaz rang liste

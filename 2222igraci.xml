@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Igrac>
+    <Antonio>Antonio</Antonio>
+    <Bosec>Bosec</Bosec>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Damir>Damir</Damir>
+    <Grgic>Grgic</Grgic>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Celikovic>Celikovic</Celikovic>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Nikola>Nikola</Nikola>
+    <Soldo>Soldo</Soldo>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Tatomirovic>Tatomirovic</Tatomirovic>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Serder>Serder</Serder>
+    <Serderov>Serderov</Serderov>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Frano>Frano</Frano>
+    <Mlinar>Mlinar</Mlinar>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Tomislav>Tomislav</Tomislav>
+    <Mazalovic>Mazalovic</Mazalovic>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Juraj>Juraj</Juraj>
+    <Ljubic>Ljubic</Ljubic>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Ziga>Ziga</Ziga>
+    <Frelih>Frelih</Frelih>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Valon>Valon</Valon>
+    <Ahmedi>Ahmedi</Ahmedi>
+    <Klub>NK Inter Zapresic</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Filipovic>Filipovic</Filipovic>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Matko>Matko</Matko>
+    <Zirdum>Zirdum</Zirdum>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Marko>Marko</Marko>
+    <Martinaga>Martinaga</Martinaga>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Vinko>Vinko</Vinko>
+    <Medimorec>Medimorec</Medimorec>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Krystian>Krystian</Krystian>
+    <Nowak>Nowak</Nowak>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Nemanja>Nemanja</Nemanja>
+    <Glavcic>Glavcic</Glavcic>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Jajalo>Jajalo</Jajalo>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Goran>Goran</Goran>
+    <Paracki>Paracki</Paracki>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Muzafer>Muzafer</Muzafer>
+    <Ejupi>Ejupi</Ejupi>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Mateas>Mateas</Mateas>
+    <Delic>Delic</Delic>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Mihael>Mihael</Mihael>
+    <Mladen>Mladen</Mladen>
+    <Klub>Slaven Belupo</Klub>
+  </Igrac>
+  <Igrac>
+    <Tibor>Tibor</Tibor>
+    <Halilovic>Halilovic</Halilovic>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Luka>Luka</Luka>
+    <Capan>Capan</Capan>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Andrej>Andrej</Andrej>
+    <Prskalo>Prskalo</Prskalo>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Franko>Franko</Franko>
+    <Andrijasevic>Andrijasevic</Andrijasevic>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Tomecak>Tomecak</Tomecak>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Hrvoje>Hrvoje</Hrvoje>
+    <Smolcic>Smolcic</Smolcic>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Dario>Dario</Dario>
+    <Zuparic>Zuparic</Zuparic>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Antonio>Antonio</Antonio>
+    <Colak>Colak</Colak>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Alexander>Alexander</Alexander>
+    <Gorgon>Gorgon</Gorgon>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Robert>Robert</Robert>
+    <Muric>Muric</Muric>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivo>Ivo</Ivo>
+    <Grbic>Grbic</Grbic>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Kristijan>Kristijan</Kristijan>
+    <Jakic>Jakic</Jakic>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Marko>Marko</Marko>
+    <Tolic>Tolic</Tolic>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Lirim>Lirim</Lirim>
+    <Kastrati>Kastrati</Kastrati>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Fran>Fran</Fran>
+    <Karacic>Karacic</Karacic>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Denis>Denis</Denis>
+    <Kolinger>Kolinger</Kolinger>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Mario>Mario</Mario>
+    <Budimir>Budimir</Budimir>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Domagoj>Domagoj</Domagoj>
+    <Drozdek>Drozdek</Drozdek>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Stipo>Stipo</Stipo>
+    <Markovic>Markovic</Markovic>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Enis>Enis</Enis>
+    <Cokaj>Cokaj</Cokaj>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Petar>Petar</Petar>
+    <Bockaj>Bockaj</Bockaj>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Mirko>Mirko</Mirko>
+    <Maric>Maric</Maric>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Mile>Mile</Mile>
+    <Skoric>Skoric</Skoric>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Marko>Marko</Marko>
+    <Malenica>Malenica</Malenica>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Jerry>Jerry</Jerry>
+    <Mbakogu>Mbakogu</Mbakogu>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Tomislav>Tomislav</Tomislav>
+    <Sorsa>Sorsa</Sorsa>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Dmytro>Dmytro</Dmytro>
+    <Lyopa>Lyopa</Lyopa>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Benedik>Benedik</Benedik>
+    <Mioc>Mioc</Mioc>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Karlo>Karlo</Karlo>
+    <Kamenar>Kamenar</Kamenar>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Mihael>Mihael</Mihael>
+    <Zaper>Zaper</Zaper>
+    <Klub>NK Osijek</Klub>
+  </Igrac>
+  <Igrac>
+    <Matija>Matija</Matija>
+    <Dvornekovic>Dvornekovic</Dvornekovic>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Joey>Joey</Joey>
+    <Suk>Suk</Suk>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Martin>Martin</Martin>
+    <Maloca>Maloca</Maloca>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Matija>Matija</Matija>
+    <Spicic>Spicic</Spicic>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Kristijan>Kristijan</Kristijan>
+    <Lovric>Lovric</Lovric>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Musa>Musa</Musa>
+    <Muhammed>Muhammed</Muhammed>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Nemanja>Nemanja</Nemanja>
+    <Ljubisavljevic>Ljubisavljevic</Ljubisavljevic>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Jiloan>Jiloan</Jiloan>
+    <Hamad>Hamad</Hamad>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Aleksandar>Aleksandar</Aleksandar>
+    <Jovicic>Jovicic</Jovicic>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Kristijan>Kristijan</Kristijan>
+    <Kahlina>Kahlina</Kahlina>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Patrik>Patrik</Patrik>
+    <Perisa>Perisa</Perisa>
+    <Klub>HNK Gorica</Klub>
+  </Igrac>
+  <Igrac>
+    <Antonio>Antonio</Antonio>
+    <Ivancic>Ivancic</Ivancic>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Josip>Josip</Josip>
+    <Condric>Condric</Condric>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Petar>Petar</Petar>
+    <Bosancic>Bosancic</Bosancic>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Mario>Mario</Mario>
+    <Cuze>Cuze</Cuze>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Lovro>Lovro</Lovro>
+    <Majkic>Majkic</Majkic>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Obeng>Obeng</Obeng>
+    <Regan>Regan</Regan>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Mocinic>Mocinic</Mocinic>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Arona>Arona</Arona>
+    <Sane>Sane</Sane>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Sime>Sime</Sime>
+    <Grzan>Grzan</Grzan>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Karolis>Karolis</Karolis>
+    <Laukzemis>Laukzemis</Laukzemis>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Stefan>Stefan</Stefan>
+    <Loncar>Loncar</Loncar>
+    <Klub>Istra 1961</Klub>
+  </Igrac>
+  <Igrac>
+    <Dejan>Dejan</Dejan>
+    <Glavica>Glavica</Glavica>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Leon>Leon</Leon>
+    <Benko>Benko</Benko>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Matej>Matej</Matej>
+    <Senic>Senic</Senic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Karlo>Karlo</Karlo>
+    <Tezak>Tezak</Tezak>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Matija>Matija</Matija>
+    <Kolaric>Kolaric</Kolaric>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Ante>Ante</Ante>
+    <Mrmic>Mrmic</Mrmic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Dinko>Dinko</Dinko>
+    <Gavranovic>Gavranovic</Gavranovic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Dominik>Dominik</Dominik>
+    <Perkovic>Perkovic</Perkovic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Marko>Marko</Marko>
+    <Stolnik>Stolnik</Stolnik>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Mario>Mario</Mario>
+    <Brlecic>Brlecic</Brlecic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Nevistic>Nevistic</Nevistic>
+    <Klub>NK Varazdin</Klub>
+  </Igrac>
+  <Igrac>
+    <Ivan>Ivan</Ivan>
+    <Bulos>Bulos</Bulos>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Josip>Josip</Josip>
+    <Posavec>Posavec</Posavec>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Josip>Josip</Josip>
+    <Juranovic>Juranovic</Juranovic>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Hamza>Hamza</Hamza>
+    <Barry>Barry</Barry>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Stefan>Stefan</Stefan>
+    <Simic>Simic</Simic>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Marin>Marin</Marin>
+    <Jakolis>Jakolis</Jakolis>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Ardian>Ardian</Ardian>
+    <Ismajli>Ismajli</Ismajli>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Stanko>Stanko</Stanko>
+    <Juric>Juric</Juric>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Dani>Dani</Dani>
+    <Olmo>Olmo</Olmo>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Mislav>Mislav</Mislav>
+    <Orsic>Orsic</Orsic>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Bruno>Bruno</Bruno>
+    <Petkovic>Petkovic</Petkovic>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Mario>Mario</Mario>
+    <Gavranovic>Gavranovic</Gavranovic>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Arijan>Arijan</Arijan>
+    <Ademi>Ademi</Ademi>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Dominik>Dominik</Dominik>
+    <Livakovic>Livakovic</Livakovic>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Amer>Amer</Amer>
+    <Gojak>Gojak</Gojak>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Damian>Damian</Damian>
+    <Kadzior>Kadzior</Kadzior>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Emir>Emir</Emir>
+    <Dilaver>Dilaver</Dilaver>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Dino>Dino</Dino>
+    <Peric>Peric</Peric>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Jakov>Jakov</Jakov>
+    <Blagaic>Blagaic</Blagaic>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Place>Place</Place>
+    <Holder>Holder</Holder>
+    <Klub>NK Lokomotiva</Klub>
+  </Igrac>
+  <Igrac>
+    <Mijo>Mijo</Mijo>
+    <Caktas>Caktas</Caktas>
+    <Klub>Hajduk</Klub>
+  </Igrac>
+  <Igrac>
+    <Igrac>Igrac</Igrac>
+    <Osijeka>Osijeka</Osijeka>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Izet>Izet</Izet>
+    <Hajrovic>Hajrovic</Hajrovic>
+    <Klub>Dinamo</Klub>
+  </Igrac>
+  <Igrac>
+    <Rijecanin>Rijecanin</Rijecanin>
+    <Pliva>Pliva</Pliva>
+    <Klub>HNK Rijeka</Klub>
+  </Igrac>
+</data>
