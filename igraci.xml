@@ -1,4 +1,336 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <data>
-  
+  <Igrac Ime="Ime0" Prezime="Prezime0" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime1" Prezime="Prezime1" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime2" Prezime="Prezime2" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime3" Prezime="Prezime3" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime4" Prezime="Prezime4" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime5" Prezime="Prezime5" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime6" Prezime="Prezime6" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime7" Prezime="Prezime7" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime8" Prezime="Prezime8" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime9" Prezime="Prezime9" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime10" Prezime="Prezime10" Klub="Dinamo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime11" Prezime="Prezime11" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime12" Prezime="Prezime12" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime13" Prezime="Prezime13" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime14" Prezime="Prezime14" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime15" Prezime="Prezime15" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime16" Prezime="Prezime16" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime17" Prezime="Prezime17" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime18" Prezime="Prezime18" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime19" Prezime="Prezime19" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime20" Prezime="Prezime20" Klub="Hajduk">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime21" Prezime="Prezime21" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime22" Prezime="Prezime22" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime23" Prezime="Prezime23" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime24" Prezime="Prezime24" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime25" Prezime="Prezime25" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime26" Prezime="Prezime26" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime27" Prezime="Prezime27" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime28" Prezime="Prezime28" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime29" Prezime="Prezime29" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime30" Prezime="Prezime30" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime31" Prezime="Prezime31" Klub="NK Varazdin">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime32" Prezime="Prezime32" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime33" Prezime="Prezime33" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime34" Prezime="Prezime34" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime35" Prezime="Prezime35" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime36" Prezime="Prezime36" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime37" Prezime="Prezime37" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime38" Prezime="Prezime38" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime39" Prezime="Prezime39" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime40" Prezime="Prezime40" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime41" Prezime="Prezime41" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime42" Prezime="Prezime42" Klub="Istra 1961">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime43" Prezime="Prezime43" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime44" Prezime="Prezime44" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime45" Prezime="Prezime45" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime46" Prezime="Prezime46" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime47" Prezime="Prezime47" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime48" Prezime="Prezime48" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime49" Prezime="Prezime49" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime50" Prezime="Prezime50" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime51" Prezime="Prezime51" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime52" Prezime="Prezime52" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime53" Prezime="Prezime53" Klub="HNK Gorica">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime54" Prezime="Prezime54" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime55" Prezime="Prezime55" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime56" Prezime="Prezime56" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime57" Prezime="Prezime57" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime58" Prezime="Prezime58" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime59" Prezime="Prezime59" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime60" Prezime="Prezime60" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime61" Prezime="Prezime61" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime62" Prezime="Prezime62" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime63" Prezime="Prezime63" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime64" Prezime="Prezime64" Klub="NK Osijek">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime65" Prezime="Prezime65" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime66" Prezime="Prezime66" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime67" Prezime="Prezime67" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime68" Prezime="Prezime68" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime69" Prezime="Prezime69" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime70" Prezime="Prezime70" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime71" Prezime="Prezime71" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime72" Prezime="Prezime72" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime73" Prezime="Prezime73" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime74" Prezime="Prezime74" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime75" Prezime="Prezime75" Klub="NK Lokomotiva">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime76" Prezime="Prezime76" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime77" Prezime="Prezime77" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime78" Prezime="Prezime78" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime79" Prezime="Prezime79" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime80" Prezime="Prezime80" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime81" Prezime="Prezime81" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime82" Prezime="Prezime82" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime83" Prezime="Prezime83" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime84" Prezime="Prezime84" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime85" Prezime="Prezime85" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime86" Prezime="Prezime86" Klub="HNK Rijeka">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime87" Prezime="Prezime87" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime88" Prezime="Prezime88" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime89" Prezime="Prezime89" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime90" Prezime="Prezime90" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime91" Prezime="Prezime91" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime92" Prezime="Prezime92" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime93" Prezime="Prezime93" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime94" Prezime="Prezime94" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime95" Prezime="Prezime95" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime96" Prezime="Prezime96" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime97" Prezime="Prezime97" Klub="Slaven Belupo">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime98" Prezime="Prezime98" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime99" Prezime="Prezime99" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime100" Prezime="Prezime100" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime101" Prezime="Prezime101" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime102" Prezime="Prezime102" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime103" Prezime="Prezime103" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime104" Prezime="Prezime104" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime105" Prezime="Prezime105" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime106" Prezime="Prezime106" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime107" Prezime="Prezime107" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime108" Prezime="Prezime108" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime109" Prezime="Prezime109" Klub="NK Inter Zapresic">
+    <ID>0</ID>
+  </Igrac>
+  <Igrac Ime="Ime110" Prezime="Prezime110" Klub="Hajduk">
+  <ID>0</ID>
+  </Igrac>
 </data>

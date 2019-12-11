@@ -1098,3 +1098,35 @@
 12/10/19 1:08:19 PM - Pokrenuta simulacija utakmica
 12/10/19 1:08:30 PM - Pokretanje glavnog izbornika
 12/10/19 1:08:32 PM - Prikaz rang liste
+12/10/19 1:24:43 PM - Pokretanje glavnog izbornika
+12/11/19 12:11:21 PM - Pokretanje programa
+12/11/19 12:11:35 PM - Pokretanje programa
+12/11/19 12:11:46 PM - Pokretanje programa
+12/11/19 12:11:46 PM - Pokretanje glavnog izbornika
+12/11/19 12:12:01 PM - Odabran prikaz klubova i igraca
+12/11/19 12:12:46 PM - Pokretanje glavnog izbornika
+12/11/19 12:13:00 PM - Pokretanje glavnog izbornika
+12/11/19 12:13:52 PM - Pokretanje programa
+12/11/19 12:13:52 PM - Pokretanje glavnog izbornika
+12/11/19 12:14:17 PM - Pokretanje glavnog izbornika
+12/11/19 12:15:06 PM - Pokretanje programa
+12/11/19 12:15:06 PM - Pokretanje glavnog izbornika
+12/11/19 12:15:15 PM - Pokretanje glavnog izbornika
+12/11/19 12:19:46 PM - Pokretanje programa
+12/11/19 12:19:46 PM - Pokretanje glavnog izbornika
+12/11/19 12:20:50 PM - Odabran prikaz klubova i igraca
+12/11/19 12:22:20 PM - Pokretanje glavnog izbornika
+12/11/19 12:22:26 PM - Pokretanje programa
+12/11/19 12:22:26 PM - Pokretanje glavnog izbornika
+12/11/19 12:22:28 PM - Odabran prikaz klubova i igraca
+12/11/19 12:23:04 PM - Pokretanje glavnog izbornika
+12/11/19 12:23:11 PM - Pokretanje programa
+12/11/19 12:23:11 PM - Pokretanje glavnog izbornika
+12/11/19 12:23:14 PM - Odabran prikaz klubova i igraca
+12/11/19 12:23:20 PM - Pokretanje glavnog izbornika
+12/11/19 12:23:39 PM - Pokrenuta simulacija utakmica
+12/11/19 12:23:42 PM - Pokretanje glavnog izbornika
+12/11/19 12:23:47 PM - Prikaz rang liste
+12/11/19 12:24:29 PM - Pokretanje glavnog izbornika
+12/11/19 12:35:07 PM - Pokretanje programa
+12/11/19 12:48:15 PM - Pokretanje programa

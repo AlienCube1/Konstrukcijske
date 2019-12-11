@@ -282,7 +282,7 @@ namespace konstruk
             for(int k=0;k<110; k++){
             string ime_gen = ime+k;
             string prezime_gen = prezime+k;
-            string klub_gen = klub;
+            string klub_gen = klub+counter;
             if(k%10==0){
                 counter+=1;
             }
@@ -597,6 +597,17 @@ namespace konstruk
         enter_esc();
         }
 
+        
+        public static bool login(){
+        Console.WriteLine("Unesi korisnicko ime: ");
+        Console.WriteLine("Unesi lozinku: ");
+        string username = Console.ReadLine();
+        string password = Console.ReadLine();
+        
+
+        
+        }
+
 
 
         static void Main(string[] args)
@@ -607,7 +618,10 @@ namespace konstruk
             oFile.Flush();
             oFile.Close();
             int izbor = 0;
+            login();
+            if(login() == true){ ////Dodaj log in
             izbornik();
+
             while(true) {
          
             
@@ -643,6 +657,7 @@ namespace konstruk
             
 
             }
+        }
         }
     }
 }
