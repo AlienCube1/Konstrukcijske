@@ -1377,7 +1377,6 @@
 12/15/19 12:37:02 AM - Pokretanje glavnog izbornika
 12/15/19 12:37:47 AM - Pokretanje programa
 12/15/19 12:37:52 AM - Pokretanje glavnog izbornika
-Prijava korisnika: Marcel
 12/15/19 12:38:19 AM - Pokretanje programa
 12/15/19 12:38:21 AM - Pokretanje glavnog izbornika
 12/15/19 12:38:21 AM - Prijava korisnika: Marcel
@@ -1454,3 +1453,100 @@ Prijava korisnika: Marcel
 12/15/19 10:22:24 PM - Pokretanje glavnog izbornika
 12/15/19 10:22:24 PM - Prijava korisnika: root
 12/15/19 10:22:26 PM - Odjava korisnika root
+12/16/19 1:14:21 PM - Pokretanje programa
+12/16/19 1:14:25 PM - Pokretanje glavnog izbornika
+12/16/19 1:14:25 PM - Prijava korisnika: m
+12/16/19 1:14:27 PM - Odabran prikaz klubova i igraca
+12/16/19 1:14:28 PM - Pokretanje glavnog izbornika
+12/16/19 1:14:28 PM - Prijava korisnika: m
+12/16/19 1:15:02 PM - Pokretanje programa
+12/16/19 1:15:05 PM - Pokretanje glavnog izbornika
+12/16/19 1:15:05 PM - Prijava korisnika: m
+12/16/19 1:15:08 PM - Odabran prikaz klubova i igraca
+12/16/19 1:15:09 PM - Pokretanje glavnog izbornika
+12/16/19 1:15:09 PM - Prijava korisnika: m
+12/16/19 1:15:10 PM - Odabran prikaz klubova i igraca
+12/16/19 1:15:19 PM - Pokretanje programa
+12/16/19 1:16:18 PM - Pokretanje programa
+12/16/19 1:16:23 PM - Pokretanje glavnog izbornika
+12/16/19 1:16:23 PM - Prijava korisnika: m
+12/16/19 1:16:26 PM - Pokretanje glavnog izbornika
+12/16/19 1:16:26 PM - Prijava korisnika: m
+12/16/19 1:16:39 PM - Obrisan klub Hajduk
+12/16/19 1:16:58 PM - Pokretanje glavnog izbornika
+12/16/19 1:16:58 PM - Prijava korisnika: m
+12/16/19 1:17:20 PM - Dodan klub Hajduk
+12/16/19 1:17:24 PM - Pokretanje glavnog izbornika
+12/16/19 1:17:24 PM - Prijava korisnika: m
+12/16/19 1:17:41 PM - Dodan igrac Ivan Rakitic u klub: Real Madrid
+12/16/19 1:17:44 PM - Pokretanje glavnog izbornika
+12/16/19 1:17:44 PM - Prijava korisnika: m
+12/16/19 1:17:50 PM - Pokretanje programa
+12/16/19 1:17:52 PM - Pokretanje glavnog izbornika
+12/16/19 1:17:52 PM - Prijava korisnika: m
+12/16/19 1:17:57 PM - Obrisan igrac: 412412
+12/16/19 1:17:59 PM - Pokretanje glavnog izbornika
+12/16/19 1:17:59 PM - Prijava korisnika: m
+12/16/19 1:18:08 PM - Prijelaz Ime119 Prezime119 u Dinamo
+12/16/19 1:18:10 PM - Pokretanje glavnog izbornika
+12/16/19 1:18:10 PM - Prijava korisnika: m
+12/16/19 1:18:14 PM - Odabran prikaz klubova i igraca
+12/16/19 1:18:20 PM - Pokretanje glavnog izbornika
+12/16/19 1:18:20 PM - Prijava korisnika: m
+12/16/19 1:18:24 PM - Prikaz rang liste
+12/16/19 1:18:31 PM - Pokretanje glavnog izbornika
+12/16/19 1:18:31 PM - Prijava korisnika: m
+12/16/19 1:18:45 PM - Odabran prikaz klubova i igraca
+12/16/19 1:18:46 PM - Pokretanje glavnog izbornika
+12/16/19 1:18:46 PM - Prijava korisnika: m
+12/16/19 1:18:49 PM - Pokrenuta simulacija utakmica
+12/16/19 1:18:52 PM - Pokretanje glavnog izbornika
+12/16/19 1:18:52 PM - Prijava korisnika: m
+12/16/19 1:18:54 PM - Odabran prikaz klubova i igraca
+12/16/19 1:19:02 PM - Pokretanje glavnog izbornika
+12/16/19 1:19:02 PM - Prijava korisnika: m
+12/16/19 1:19:15 PM - Dodan igrac Imenesto prezimenesto u klub: NK Inter Zapresic
+12/16/19 1:19:17 PM - Pokretanje glavnog izbornika
+12/16/19 1:19:17 PM - Prijava korisnika: m
+12/16/19 1:19:57 PM - Pokretanje programa
+12/16/19 1:19:59 PM - Pokretanje glavnog izbornika
+12/16/19 1:19:59 PM - Prijava korisnika: m
+12/16/19 1:20:06 PM - Pokretanje programa
+12/16/19 1:20:11 PM - Pokretanje glavnog izbornika
+12/16/19 1:20:11 PM - Prijava korisnika: root
+12/16/19 1:20:13 PM - Pokretanje glavnog izbornika
+12/16/19 1:20:13 PM - Prijava korisnika: root
+12/16/19 1:20:25 PM - Pokrenuta simulacija utakmica
+12/16/19 1:20:26 PM - Pokretanje glavnog izbornika
+12/16/19 1:20:26 PM - Prijava korisnika: root
+12/16/19 1:20:30 PM - Odabran prikaz klubova i igraca
+12/16/19 1:20:47 PM - Pokretanje glavnog izbornika
+12/16/19 1:20:47 PM - Prijava korisnika: root
+12/16/19 1:21:01 PM - Dodan igrac NekiIgrac NekiIgrac32 u klub: 525252
+12/16/19 1:21:11 PM - Pokretanje glavnog izbornika
+12/16/19 1:21:11 PM - Prijava korisnika: root
+12/16/19 1:21:16 PM - Pokretanje programa
+12/16/19 1:21:18 PM - Pokretanje glavnog izbornika
+12/16/19 1:21:18 PM - Prijava korisnika: m
+12/16/19 1:21:33 PM - Dodan igrac ImeNovo PrezimeNovo u klub: NK Inter Zapresic
+12/16/19 1:21:38 PM - Pokretanje glavnog izbornika
+12/16/19 1:21:38 PM - Prijava korisnika: m
+12/16/19 1:21:42 PM - Pokretanje programa
+12/16/19 1:21:44 PM - Pokretanje glavnog izbornika
+12/16/19 1:21:44 PM - Prijava korisnika: m
+12/16/19 1:21:45 PM - Pokrenuta simulacija utakmica
+12/16/19 1:21:52 PM - Pokretanje glavnog izbornika
+12/16/19 1:21:52 PM - Prijava korisnika: m
+12/16/19 1:21:54 PM - Prikaz rang liste
+12/16/19 1:22:11 PM - Pokretanje glavnog izbornika
+12/16/19 1:22:11 PM - Prijava korisnika: m
+12/16/19 1:22:36 PM - Prikaz rang liste
+12/16/19 1:24:14 PM - Pokretanje glavnog izbornika
+12/16/19 1:24:14 PM - Prijava korisnika: m
+12/16/19 1:24:16 PM - Odjava korisnika m
+12/16/19 1:26:08 PM - Pokretanje programa
+12/16/19 1:26:11 PM - Pokretanje glavnog izbornika
+12/16/19 1:26:11 PM - Prijava korisnika: m
+12/16/19 1:31:06 PM - Prikaz rang liste
+12/16/19 1:35:09 PM - Pokretanje glavnog izbornika
+12/16/19 1:35:09 PM - Prijava korisnika: m

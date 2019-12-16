@@ -46,7 +46,7 @@ namespace konstruk
                 izbornik();
             }
             else if(key.Key == ConsoleKey.Escape){
-                return;
+                Environment.Exit(0);
             }
 
         }
@@ -677,7 +677,7 @@ static string AlignCentre(string text, int width)
         }
         } //<--Try zagrada
         catch{
-            Console.WriteLine("Enum op may not execute(Greska sa indeksom vjv)");
+            Console.WriteLine("Greska sa indeksom vjv, napravi 200 iteracija ili ima samo 180 unosa i zato baca error za zadnjih 20");
         }
         enter_esc();
         }
@@ -714,7 +714,7 @@ static string AlignCentre(string text, int width)
             }
 
         }
-
+        Console.WriteLine("Krivo korisnicko ime i/ili lozinka!");
         return false;
         }
         ////Funkcija koja sluzi za odjavu korisnika, skoro cijeli main je nested u petlji
@@ -810,6 +810,9 @@ static string AlignCentre(string text, int width)
                     izbornik();
                 }
                 
+            }
+            else {
+                Console.WriteLine("Nevazeci unos");
             }
             
 
