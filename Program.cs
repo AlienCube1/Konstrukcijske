@@ -17,7 +17,17 @@ namespace konstruk
 {
     class Program
     {
-       
+        
+       /*   
+       Vecina funkcija na pocetku ima streamwriter, mogao sam napraviti funkciju
+       koja bi samo isprintala vrijeme, ali razlog zasto sam dodao streamwriter u svaku zasebnu
+       funkciju je taj da mogu tocno isprintati sto zelim. Recimo kada dodam klub napisat ce
+       'Vrijeme - Dodan klub Hajduk' ili 'Vrijeme - Obrisan igrac 124'
+        Te funkcije se ponavljaju i dodaju poprilicno dosta linija kodu, mogao sam to drugacije izvest
+        ali trenutno nije potrebno
+
+       */
+       ////Funkcija koja prikazuje izbornik
         public static void izbornik(){
             Console.WriteLine("1 - Ažuriraj klubove");
             Console.WriteLine("2 - Ažuriraj igrače");
@@ -25,11 +35,11 @@ namespace konstruk
             Console.WriteLine("4 - Prikaz klubova sa igračima");
             Console.WriteLine("5 - Odigraj utakmicu");
             Console.WriteLine("6 - Prikaži rang listu");
+            Console.WriteLine("7 - Odjava \n");
         }
-
+        ////Funkcija za povratak ili kraj
         public static void enter_esc(){
             Console.WriteLine("Pristinite enter za povratak u glavni izbornik ili escape za kraj. ");
-            //string key = Console.ReadKey();
             ConsoleKeyInfo key;
             key = Console.ReadKey();
             if(key.Key == ConsoleKey.Enter){
@@ -44,6 +54,7 @@ namespace konstruk
 
 
         //Funkcija sluzi za dodavanje ili brisanje klubova
+        //Funkcija ucitava klubove iz datoteke te na temelju inputa korisnika brise ili upisuje u datoteku
         public static void azurirajklubove(){
             
         int izbor;
@@ -62,7 +73,7 @@ namespace konstruk
         
 
         if(count < 10) {
-        //Console.WriteLine(count); <-- Provjera
+        //Console.WriteLine(count); <-- Provjera (Molim te nemoj ovo obrisat)
             string naziv = Console.ReadLine();
             string grad = Console.ReadLine();
             string stadion = Console.ReadLine();
@@ -74,11 +85,12 @@ namespace konstruk
             oFile.Close();
             
             //Dodavanje novog unosa u XML
+            //Klubvi nemaju atribute nego su samo elementi, razlog tome je jednostavnost koristenja
             XElement klub = new XElement("Klub",
             new XElement("Naziv", naziv),
             new XElement("Grad", grad),
             new XElement("Stadion", stadion));
-            ///^ sve su elementi jer mi je trenutno lakse tak, promjeni to kasnije
+            
             doc.Root.Add(klub);
             doc.Save("klubovi.xml");
         }
@@ -137,10 +149,11 @@ namespace konstruk
             int izbor = Convert.ToInt32(Console.ReadLine());
             
             if(izbor == 1){
-            
+            Console.WriteLine("Unesi ime,prezime,klub i id igraca");
             string ime = Console.ReadLine();
             string prezime = Console.ReadLine();
             string klub = Console.ReadLine();
+            int id = Convert.ToInt32(Console.ReadLine());
             string path = @"igraci.xml";
 
             string putanja = @"logovi.txt";
@@ -152,7 +165,6 @@ namespace konstruk
 
             
             XDocument doc = XDocument.Load(path);
-            int id = 0;
             XElement novi = new XElement("Igrac",
             new XAttribute("Ime", ime),
             new XAttribute("Prezime", prezime),
@@ -166,25 +178,30 @@ namespace konstruk
             }
             
         else if(izbor == 2){
-        Console.WriteLine("Unesi ime igraca: ");
-        Console.WriteLine("Unesi prezime igraca: ");
-        string brisi_ime = Console.ReadLine();
-        string brisi_prezime = Console.ReadLine();
-
+        Console.WriteLine("Unesi id igraca: ");
+        int id = Convert.ToInt32(Console.ReadLine());
+        
         string putanja = @"logovi.txt";
         StreamWriter oFile = new StreamWriter(putanja, true);
-        oFile.Write(DateTime.Now + " - Obrisan igrac " + brisi_ime + " " + brisi_prezime + "\n");
+        oFile.Write(DateTime.Now + " - Obrisan igrac: " + id +  "\n");
         oFile.Flush();
         oFile.Close();
         
-        XDocument doc = XDocument.Load("igraci.xml");
-        var q = from node in doc.Descendants("Igrac")
-        let attr = node.Attribute("Ime")
-        where attr != null && attr.Value == brisi_ime
-        select node;
-        q.ToList().ForEach(x => x.Remove());
-        doc.Save("igraci.xml");
+        int counter = 0;
+        string sXml = @"igraci.xml";
+        XmlDocument doc = new XmlDocument();
+        doc.Load(sXml);
+        var node = doc.GetElementsByTagName("ID");
+        foreach(XmlNode bla in node){
+            if(node[counter].InnerXml == id.ToString()){
+                XmlNode parent = node[counter].ParentNode;
 
+                parent.ParentNode.RemoveChild(parent);
+                string newXml = doc.OuterXml;
+                doc.Save(sXml);
+            }
+            counter+=1;
+        }
 
                   }
             
@@ -231,7 +248,8 @@ namespace konstruk
             enter_esc();
 
         }
-
+        ////Funkcija koja slui za prikaz kluba i svih njegovih igraca, ukoliko klub nema 11 igraca
+        ////Funkcija to isprinta
         public static void Prikazi(){
             string putanja = @"logovi.txt";
             StreamWriter oFile = new StreamWriter(putanja, true);
@@ -250,7 +268,7 @@ namespace konstruk
             int counter = 0;
             int broj_igraca = 0;
             foreach(XmlNode node in novi){
-                Console.WriteLine(novi[counter].InnerXml);
+                Console.WriteLine(novi[counter].InnerXml + "\n");
                 foreach(XmlNode oNode in oNodes){
                     if(novi[counter].InnerXml==oNode.Attributes["Klub"].Value){
                         broj_igraca +=1;
@@ -271,8 +289,12 @@ namespace konstruk
             }
             enter_esc();
         }
-
+        /* Funkcija koja nije dio rjesenja, ova funkcija nije bila trazena nego sam ju napravio
+           Kako bi u slucaju gresaka mogao ponovno generirati 110 igraca, funkcija se moze pozvati samo
+           ako je korisnik prijavljen kao root.
+        */
         public static void Temporary(){
+            int id = 0;
             string ime = Console.ReadLine();
             string prezime = Console.ReadLine();
             string klub = Console.ReadLine();
@@ -286,7 +308,7 @@ namespace konstruk
             if(k%10==0){
                 counter+=1;
             }
-            int id = 0;
+            id+=1;
             XElement novi = new XElement("Igrac",
             new XAttribute("Ime", ime_gen),
             new XAttribute("Prezime", prezime_gen),
@@ -359,14 +381,14 @@ namespace konstruk
         var novi = print_klub.GetElementsByTagName("Naziv");
             int counter = 0;
             foreach(XmlNode node in novi){
-                //Console.WriteLine(novi[counter].InnerXml);
+                //Console.WriteLine(novi[counter].InnerXml); <-- Jos jedna provjera
                 nova.Add(novi[counter].InnerXml);
                 counter++;
             }
             if(broj_igraca_klub() == true){
                 Console.WriteLine("Ima 10 klubova i svaki ima barem 11 igraca");
             /*var random = new Random();
-            int index = random.Next(nova.Count);
+            int index = random.Next(nova.Count); <--- Ne brisi!
             Console.WriteLine(nova[index]);
             */
                 int home_win = 0;
@@ -390,7 +412,7 @@ namespace konstruk
             foreach(string z in nova){
                 foreach(string y in nova){
                 
-                //Console.WriteLine(counter_za_strane);
+                //Console.WriteLine(counter_za_strane); <--Provjera
                 if(counter_za_strane == nova.Count()){
                     counter_za_strane = 0;
                     opet_counter+=1;
@@ -452,11 +474,7 @@ namespace konstruk
                 new XElement("ID","PH"));
                 doc2.Root.Add(strani);
                 doc2.Save("rezultati.xml");
-
-
-
-
-                
+        
 
                 gosti_daju = 0;
                 away_lost = 0;
@@ -474,12 +492,10 @@ namespace konstruk
                 } //<-- Try zagrada
         }
 
-
             }
             catch {
                 Console.WriteLine("Greska sa indeksom");
             }
-            
           
     }
             else if(broj_igraca_klub() == false){
@@ -488,28 +504,57 @@ namespace konstruk
         enter_esc();
         }
 
-        //// Funkcija koja sluzi za sortiranje liste kako bi se na vrhu prikazali klubovi sa najvise bodova
-       /* public static void sortiraj(int[] data){
-            int i, j;
-            int N = data.Length;
 
-            for(j = 1; j< N; j++){
-                for(i = j; i>0 && data[i] < data[i-1]; i--){
-                    exchange (data, i, i -1);
-                }
-            }
-        }*/
+        ////Funkcije koje sluze za prikaz tablice u 6. funkciji
+        ////Funkcija preuzeta sa: https://stackoverflow.com/questions/856845/how-to-best-way-to-draw-table-in-console-app-c
+        ////Korisnik: Patrick McDonald je kreator funkcija
+static int tableWidth = 100;
+
+static void PrintLine()
+{
+    Console.WriteLine(new string('-', tableWidth));
+}
+
+static void PrintRow(params string[] columns)
+{
+    int width = (tableWidth - columns.Length) / columns.Length;
+    string row = "|";
+
+    foreach (string column in columns)
+    {
+        row += AlignCentre(column, width) + "|";
+    }
+
+    Console.WriteLine(row);
+}
+
+static string AlignCentre(string text, int width)
+{
+    text = text.Length > width ? text.Substring(0, width - 3) + "..." : text;
+
+    if (string.IsNullOrEmpty(text))
+    {
+        return new string(' ', width);
+    }
+    else
+    {
+        return text.PadRight(width - (width - text.Length) / 2).PadLeft(width);
+    }
+}
+
 
 
 
 
         ////Funkcija koja prikazuje rang listu i poredak koji se temelji na rezultati.xml
+        ////Sve se dodaje u liste, iz lista se cita te se liste na kraju obrisu
         public static void rang_lista(){
         string putanja = @"logovi.txt";
             StreamWriter oFile = new StreamWriter(putanja, true);
             oFile.Write(DateTime.Now + " - Prikaz rang liste" + "\n");
             oFile.Flush();
             oFile.Close();
+
         int redni_broj = 0;
         XmlDocument print_klub = new XmlDocument();
         print_klub.Load("klubovi.xml");
@@ -520,40 +565,50 @@ namespace konstruk
             XmlDocument oXml = new XmlDocument();
             oXml.Load("rezultati.xml");
             XmlNodeList oNodes = oXml.SelectNodes("//data/Ekipa");
+            string ime_kluba = "";
             int wins = 0;
             int losess = 0;
             int draw = 0;
             int scored_goals = 0;
             int recived_goals = 0;
+            int diffr = 0;
+
+            List<string> nazivi = new List<string>();
             List<int> ukupno_tekme = new List<int>();
             List<int> pobjede = new List<int>();
             List<int> gubitci = new List<int>();
             List<int> izjedn = new List<int>();
             List<int> zab_gol = new List<int>();
             List<int> prim_gol = new List<int>();
+            List<int> gol_dif = new List<int>();
+            
             int brojac_ukupno = 0;
+            
             foreach(XmlNode node in novi){
                 //Console.WriteLine(novi[counter].InnerXml);
                 foreach(XmlNode oNode in oNodes){
                     if(novi[counter].InnerXml == oNode.Attributes["Ime"].Value){
-                        //Console.WriteLine(oNode.Attributes["Ime"].Value);
+                        
+                        ime_kluba = oNode.Attributes["Ime"].Value;
                         wins = wins + Convert.ToInt32(oNode.Attributes["Pobjede"].Value);
-                        //Console.WriteLine(wins);
                         losess = losess + Convert.ToInt32(oNode.Attributes["Porazi"].Value);
                         draw = draw + Convert.ToInt32(oNode.Attributes["Nerijeseno"].Value);
-                        Console.WriteLine(draw);
                         scored_goals = scored_goals + Convert.ToInt32(oNode.Attributes["Golovi"].Value);
                         recived_goals = recived_goals + Convert.ToInt32(oNode.Attributes["Primljeni"].Value);
+                        diffr = scored_goals - recived_goals;
+                        
                         brojac_ukupno+=1;
                     }
                     
                 }
-                pobjede.Add(wins);
+                    nazivi.Add(ime_kluba);
+                    pobjede.Add(wins);
                     gubitci.Add(losess);
                     izjedn.Add(draw);
                     zab_gol.Add(scored_goals);
                     prim_gol.Add(recived_goals);
                     ukupno_tekme.Add(brojac_ukupno);
+                    gol_dif.Add(diffr);
                     
                     wins = 0;
                     losess = 0;
@@ -561,55 +616,116 @@ namespace konstruk
                     scored_goals =0;
                     recived_goals =0;
                     brojac_ukupno = 0;
-                counter+=1;
+                    
+                    counter+=1;
             }
         
         List<int> lista_bodova = new List<int>();
         List<int> za_sortirat = new List<int>();
         List<int> sortirano = new List<int>();
         
-        
-        /*sortirano.Sort( (n1, n2) => n1.FirstName.CompareTo(n2.FirstName));
-      */
         int kanter = 0;
         int opt_kanter = 0;
+        
         foreach(XmlNode jos_jedan in novi){
+        
         int bodovi = (pobjede[opt_kanter]*3) + (izjedn[opt_kanter]*1);
         lista_bodova.Add(bodovi);
+        za_sortirat.Add(bodovi);
+        
         opt_kanter+=1;
+        int indeks = 0;
         }
-        Console.WriteLine("R.Br Klub Broj utakmica Bodovi Pobjeda Nerijeseno Gol Razlika");
        
+        za_sortirat.Sort();
+        za_sortirat.Reverse();
         
-        foreach(XmlNode nodara in novi){
-        int gol_razlika = zab_gol[kanter]-prim_gol[kanter];
+        PrintRow("R.Br","Klub", "Broj utakmica", "Bodovi", "Pobjeda", "Nerijeseno", "Gol razlika");
         
-
-        ////Sortiranje tako da onaj koji ima najvise bodova bude prikazan na vrhu
+        int rd_br = 1;
         
-       
-
-
-        Console.WriteLine(kanter+1 + "  " + novi[kanter].InnerXml + "  " + ukupno_tekme[kanter] + " "+ lista_bodova[kanter]+ " " + pobjede[kanter] + " " + izjedn[kanter] + " " + gol_razlika);
+        int brojac=0;
+        try{
+        foreach(string naziv_klub in nazivi){
+        while(brojac< 10){
+            if(lista_bodova[kanter]==za_sortirat[brojac]){
+            
+            int gol_razlika = zab_gol[brojac]-prim_gol[brojac];
+            
+            PrintRow(rd_br.ToString(),nazivi[kanter].ToString(),ukupno_tekme[kanter].ToString(),lista_bodova[kanter].ToString(),pobjede[kanter].ToString(),izjedn[kanter].ToString(),gol_dif[kanter].ToString());
+            
+            nazivi.Remove(nazivi[kanter]);
+            ukupno_tekme.Remove(ukupno_tekme[kanter]);
+            lista_bodova.Remove(lista_bodova[kanter]);
+            pobjede.Remove(pobjede[kanter]);
+            izjedn.Remove(izjedn[kanter]);
+            gol_dif.Remove(gol_dif[kanter]);
+            
+            gol_razlika = 0;
+            rd_br+=1;   
+            kanter=0;
+            brojac+=1; 
+            }
+            
+            else{
         kanter+=1;
         }
-  
+
+
+        
+        }
+        }
+        } //<--Try zagrada
+        catch{
+            Console.WriteLine("Enum op may not execute(Greska sa indeksom vjv)");
+        }
         enter_esc();
         }
-
-        
-        public static bool login(){
-        Console.WriteLine("Unesi korisnicko ime: ");
-        Console.WriteLine("Unesi lozinku: ");
-        string username = Console.ReadLine();
-        string password = Console.ReadLine();
-        
-
-        
+        ////Funkcija koja provjerava da li je korisnik root, funkcija ima parametar username
+        ////Taj paramater dobiva iz poziva funkcije u mainu
+        public static bool is_root(string username){
+       if(username=="root"){
+        return true;
+       }
+       return false;
         }
 
+        ////Funkcija koja sluzi za login, paramteri su username i password.
+        ////Funkcija dodaje sve iz login.txt u listu te provjerava unesene podatke
+        ////Podatci su zapisani na nacin da je svaki neparni red username a svaki parni password
+        ////Zato provjerava username sa k, a password sa k+1        
+        public static bool login(string username, string password){
+        List<string> info = new List<string>();
+     
+        using (StreamReader sr = File.OpenText("login.txt"))
+{
+        string s = String.Empty;
+        while ((s = sr.ReadLine()) != null)
+        {
+            info.Add(s);
+        }
+}       //Console.WriteLine(info.Count);
+        for(int k = 0; k < info.Count; k++){
+            if(username == info[k]){
+                if(password == info[k+1]){
+                    
+                    return true;
+                }
+            }
 
+        }
 
+        return false;
+        }
+        ////Funkcija koja sluzi za odjavu korisnika, skoro cijeli main je nested u petlji
+        ////Koja provjerava da li je odlogiraj false, kada korisnik pozove funkciju odlogiraj, ona 
+        ////mjenja odlogiraj u true i vraca se ponovno na unesite ime i lozinku.
+        public static bool odlogiraj(bool da){
+            if(da == true){
+                return true;
+                }
+            return false;
+        }
         static void Main(string[] args)
         {
             string putanja = @"logovi.txt";
@@ -618,17 +734,38 @@ namespace konstruk
             oFile.Flush();
             oFile.Close();
             int izbor = 0;
-            login();
-            if(login() == true){ ////Dodaj log in
-            izbornik();
+            bool logout = false;    
+            bool logged_in = false;
+            string username = "";
+            string password = "";
+             
+
 
             while(true) {
-         
+            if(logged_in == false)
+{
+            Console.WriteLine("Unesi korisnicko ime: ");
+            Console.WriteLine("Unesi lozinku: ");
+            
+            username = Console.ReadLine();
+            password = Console.ReadLine();
+
+}            
+          
+            
+            if(odlogiraj(logout)==false){
+            
+
+
+            if(login(username,password) == true){ 
+            logged_in=true;
+            izbornik();
             
             StreamWriter oFilee = new StreamWriter(putanja, true);
-            oFilee.Write(DateTime.Now + " - Pokretanje glavnog izbornika" + "\n");
+            oFilee.Write(DateTime.Now + " - Pokretanje glavnog izbornika" + "\n" +DateTime.Now +" - Prijava korisnika: " + username + "\n");
             oFilee.Flush();
             oFilee.Close();
+            
             izbor = Convert.ToInt32(Console.ReadLine());
             if(izbor == 1){
                 azurirajklubove();
@@ -649,14 +786,39 @@ namespace konstruk
             else if(izbor == 6){
                 rang_lista();
             }
+            else if(izbor == 7){
+                 StreamWriter oFileee = new StreamWriter(putanja, true);
+                 oFileee.Write(DateTime.Now + " - Odjava korisnika "+ username + "\n");
+                 oFileee.Flush();
+                 oFileee.Close();
+                bool da = true;
+                logged_in = false;
+                odlogiraj(da);
+            }
 
             else if(izbor == 7189){
-                Temporary();
-                Console.WriteLine("Kuda?");
+                if(is_root(username) == true){
+                    Console.WriteLine("Are you sure you want to generate 110 players?");
+                    string ans = Console.ReadLine();
+                    if(ans=="Yes" || ans=="yes"){
+                    Temporary();
+                    }
+                    
+                }
+                else {
+                    Console.WriteLine("Only root users can use command 7189");
+                    izbornik();
+                }
+                
             }
             
 
             }
+        }
+        else{
+            Console.WriteLine("Pogresno korisnicko ime i/ili lozinka!");
+            izbornik();
+        }
         }
         }
     }

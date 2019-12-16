@@ -1130,3 +1130,327 @@
 12/11/19 12:24:29 PM - Pokretanje glavnog izbornika
 12/11/19 12:35:07 PM - Pokretanje programa
 12/11/19 12:48:15 PM - Pokretanje programa
+12/11/19 12:55:06 PM - Pokretanje programa
+12/11/19 1:01:00 PM - Pokretanje programa
+12/11/19 1:01:28 PM - Pokretanje glavnog izbornika
+12/11/19 1:01:46 PM - Pokretanje programa
+12/11/19 1:01:50 PM - Pokretanje glavnog izbornika
+12/11/19 1:02:21 PM - Pokretanje programa
+12/11/19 1:02:30 PM - Pokretanje programa
+12/11/19 1:02:53 PM - Pokretanje glavnog izbornika
+12/14/19 7:53:35 PM - Pokretanje programa
+12/14/19 7:53:41 PM - Pokretanje glavnog izbornika
+12/14/19 7:53:44 PM - Prikaz rang liste
+12/14/19 8:16:45 PM - Pokretanje programa
+12/14/19 8:16:49 PM - Pokretanje glavnog izbornika
+12/14/19 8:16:50 PM - Prikaz rang liste
+12/14/19 8:24:09 PM - Pokretanje glavnog izbornika
+12/14/19 8:24:16 PM - Pokretanje programa
+12/14/19 8:24:18 PM - Pokretanje glavnog izbornika
+12/14/19 8:24:20 PM - Prikaz rang liste
+12/14/19 8:25:00 PM - Pokretanje programa
+12/14/19 8:25:03 PM - Pokretanje glavnog izbornika
+12/14/19 8:25:04 PM - Prikaz rang liste
+12/14/19 8:25:27 PM - Pokretanje programa
+12/14/19 8:25:32 PM - Pokretanje glavnog izbornika
+12/14/19 8:25:34 PM - Prikaz rang liste
+12/14/19 8:28:08 PM - Pokretanje programa
+12/14/19 8:28:12 PM - Pokretanje glavnog izbornika
+12/14/19 8:28:14 PM - Prikaz rang liste
+12/14/19 8:29:17 PM - Pokretanje glavnog izbornika
+12/14/19 8:34:02 PM - Pokretanje programa
+12/14/19 8:34:06 PM - Pokretanje glavnog izbornika
+12/14/19 8:34:08 PM - Prikaz rang liste
+12/14/19 8:35:46 PM - Pokretanje glavnog izbornika
+12/14/19 8:35:50 PM - Pokretanje programa
+12/14/19 8:35:54 PM - Pokretanje glavnog izbornika
+12/14/19 8:35:56 PM - Prikaz rang liste
+12/14/19 8:36:28 PM - Pokretanje programa
+12/14/19 8:36:29 PM - Pokretanje glavnog izbornika
+12/14/19 8:36:30 PM - Prikaz rang liste
+12/14/19 8:40:08 PM - Pokretanje programa
+12/14/19 8:40:09 PM - Pokretanje glavnog izbornika
+12/14/19 8:40:58 PM - Pokretanje programa
+12/14/19 8:40:59 PM - Pokretanje glavnog izbornika
+12/14/19 8:43:19 PM - Pokretanje programa
+12/14/19 8:43:22 PM - Pokretanje glavnog izbornika
+12/14/19 8:43:23 PM - Prikaz rang liste
+12/14/19 8:46:39 PM - Pokretanje programa
+12/14/19 8:46:40 PM - Pokretanje glavnog izbornika
+12/14/19 8:46:41 PM - Prikaz rang liste
+12/14/19 8:47:28 PM - Pokretanje programa
+12/14/19 8:47:30 PM - Pokretanje glavnog izbornika
+12/14/19 8:47:31 PM - Prikaz rang liste
+12/14/19 8:48:15 PM - Pokretanje programa
+12/14/19 8:48:18 PM - Pokretanje glavnog izbornika
+12/14/19 8:48:20 PM - Prikaz rang liste
+12/14/19 8:54:26 PM - Pokretanje programa
+12/14/19 8:54:27 PM - Pokretanje glavnog izbornika
+12/14/19 8:54:28 PM - Prikaz rang liste
+12/14/19 8:54:59 PM - Pokretanje programa
+12/14/19 8:55:01 PM - Pokretanje glavnog izbornika
+12/14/19 8:55:01 PM - Prikaz rang liste
+12/14/19 8:56:09 PM - Pokretanje programa
+12/14/19 8:56:16 PM - Pokretanje programa
+12/14/19 8:56:16 PM - Pokretanje glavnog izbornika
+12/14/19 8:56:18 PM - Prikaz rang liste
+12/14/19 8:58:21 PM - Pokretanje programa
+12/14/19 8:58:22 PM - Pokretanje glavnog izbornika
+12/14/19 8:58:23 PM - Prikaz rang liste
+12/14/19 8:59:12 PM - Pokretanje programa
+12/14/19 8:59:13 PM - Pokretanje glavnog izbornika
+12/14/19 8:59:14 PM - Prikaz rang liste
+12/14/19 9:00:02 PM - Pokretanje programa
+12/14/19 9:00:03 PM - Pokretanje glavnog izbornika
+12/14/19 9:00:04 PM - Prikaz rang liste
+12/14/19 10:45:11 PM - Pokretanje programa
+12/14/19 10:45:12 PM - Pokretanje glavnog izbornika
+12/14/19 10:45:14 PM - Prikaz rang liste
+12/14/19 10:45:42 PM - Pokretanje programa
+12/14/19 10:45:43 PM - Pokretanje glavnog izbornika
+12/14/19 10:45:44 PM - Prikaz rang liste
+12/14/19 10:46:12 PM - Pokretanje programa
+12/14/19 10:46:15 PM - Pokretanje glavnog izbornika
+12/14/19 10:46:16 PM - Prikaz rang liste
+12/14/19 10:51:37 PM - Pokretanje programa
+12/14/19 10:51:38 PM - Pokretanje glavnog izbornika
+12/14/19 10:51:39 PM - Prikaz rang liste
+12/14/19 10:52:40 PM - Pokretanje programa
+12/14/19 10:52:42 PM - Pokretanje glavnog izbornika
+12/14/19 10:52:43 PM - Prikaz rang liste
+12/14/19 10:52:58 PM - Pokretanje programa
+12/14/19 10:53:01 PM - Pokretanje glavnog izbornika
+12/14/19 10:53:02 PM - Prikaz rang liste
+12/14/19 10:54:37 PM - Pokretanje programa
+12/14/19 10:54:38 PM - Pokretanje glavnog izbornika
+12/14/19 10:54:40 PM - Prikaz rang liste
+12/14/19 10:55:04 PM - Pokretanje programa
+12/14/19 10:55:05 PM - Pokretanje glavnog izbornika
+12/14/19 10:55:06 PM - Prikaz rang liste
+12/14/19 10:56:08 PM - Pokretanje programa
+12/14/19 10:56:09 PM - Pokretanje glavnog izbornika
+12/14/19 10:56:10 PM - Prikaz rang liste
+12/14/19 10:56:43 PM - Pokretanje programa
+12/14/19 10:56:44 PM - Pokretanje glavnog izbornika
+12/14/19 10:56:45 PM - Prikaz rang liste
+12/14/19 10:57:38 PM - Pokretanje programa
+12/14/19 10:57:39 PM - Pokretanje glavnog izbornika
+12/14/19 10:57:40 PM - Prikaz rang liste
+12/14/19 10:58:43 PM - Pokretanje programa
+12/14/19 10:58:44 PM - Pokretanje glavnog izbornika
+12/14/19 10:58:44 PM - Prikaz rang liste
+12/14/19 10:59:21 PM - Pokretanje programa
+12/14/19 10:59:22 PM - Pokretanje glavnog izbornika
+12/14/19 10:59:23 PM - Prikaz rang liste
+12/14/19 10:59:45 PM - Pokretanje programa
+12/14/19 10:59:46 PM - Pokretanje glavnog izbornika
+12/14/19 10:59:47 PM - Prikaz rang liste
+12/14/19 11:00:04 PM - Pokretanje programa
+12/14/19 11:00:05 PM - Pokretanje glavnog izbornika
+12/14/19 11:00:07 PM - Prikaz rang liste
+12/14/19 11:01:36 PM - Pokretanje programa
+12/14/19 11:01:37 PM - Pokretanje glavnog izbornika
+12/14/19 11:01:38 PM - Prikaz rang liste
+12/14/19 11:04:14 PM - Pokretanje programa
+12/14/19 11:04:40 PM - Pokretanje glavnog izbornika
+12/14/19 11:04:41 PM - Prikaz rang liste
+12/14/19 11:05:10 PM - Pokretanje glavnog izbornika
+12/14/19 11:06:30 PM - Pokretanje programa
+12/14/19 11:06:37 PM - Pokretanje programa
+12/14/19 11:06:40 PM - Pokretanje glavnog izbornika
+12/14/19 11:06:46 PM - Prikaz rang liste
+12/14/19 11:06:46 PM - Pokretanje glavnog izbornika
+12/14/19 11:08:43 PM - Pokretanje programa
+12/14/19 11:08:44 PM - Pokretanje glavnog izbornika
+12/14/19 11:08:45 PM - Prikaz rang liste
+12/14/19 11:09:46 PM - Pokretanje programa
+12/14/19 11:09:46 PM - Pokretanje glavnog izbornika
+12/14/19 11:09:47 PM - Prikaz rang liste
+12/14/19 11:18:18 PM - Pokretanje programa
+12/14/19 11:18:20 PM - Pokretanje glavnog izbornika
+12/14/19 11:18:22 PM - Prikaz rang liste
+12/14/19 11:19:35 PM - Pokretanje programa
+12/14/19 11:19:36 PM - Pokretanje glavnog izbornika
+12/14/19 11:19:37 PM - Prikaz rang liste
+12/14/19 11:23:03 PM - Pokretanje programa
+12/14/19 11:23:04 PM - Pokretanje glavnog izbornika
+12/14/19 11:23:06 PM - Prikaz rang liste
+12/14/19 11:23:47 PM - Pokretanje programa
+12/14/19 11:23:49 PM - Pokretanje glavnog izbornika
+12/14/19 11:23:50 PM - Prikaz rang liste
+12/14/19 11:28:28 PM - Pokretanje programa
+12/14/19 11:28:30 PM - Pokretanje glavnog izbornika
+12/14/19 11:28:30 PM - Prikaz rang liste
+12/14/19 11:29:04 PM - Pokretanje programa
+12/14/19 11:29:05 PM - Pokretanje glavnog izbornika
+12/14/19 11:29:06 PM - Prikaz rang liste
+12/14/19 11:29:17 PM - Pokretanje glavnog izbornika
+12/14/19 11:29:22 PM - Pokretanje programa
+12/14/19 11:29:22 PM - Pokretanje glavnog izbornika
+12/14/19 11:29:23 PM - Prikaz rang liste
+12/14/19 11:30:28 PM - Pokretanje programa
+12/14/19 11:30:32 PM - Pokretanje glavnog izbornika
+12/14/19 11:30:33 PM - Prikaz rang liste
+12/14/19 11:31:19 PM - Pokretanje programa
+12/14/19 11:31:20 PM - Pokretanje glavnog izbornika
+12/14/19 11:31:21 PM - Prikaz rang liste
+12/14/19 11:33:06 PM - Pokretanje programa
+12/14/19 11:33:08 PM - Pokretanje glavnog izbornika
+12/14/19 11:33:09 PM - Prikaz rang liste
+12/14/19 11:34:20 PM - Pokretanje programa
+12/14/19 11:34:22 PM - Pokretanje glavnog izbornika
+12/14/19 11:34:23 PM - Prikaz rang liste
+12/14/19 11:34:49 PM - Pokretanje programa
+12/14/19 11:34:51 PM - Pokretanje glavnog izbornika
+12/14/19 11:34:52 PM - Prikaz rang liste
+12/14/19 11:47:03 PM - Pokretanje programa
+12/14/19 11:47:04 PM - Pokretanje glavnog izbornika
+12/14/19 11:47:04 PM - Prikaz rang liste
+12/14/19 11:47:40 PM - Pokretanje programa
+12/14/19 11:47:46 PM - Pokretanje glavnog izbornika
+12/14/19 11:47:47 PM - Pokrenuta simulacija utakmica
+12/14/19 11:48:06 PM - Pokretanje glavnog izbornika
+12/14/19 11:48:07 PM - Prikaz rang liste
+12/14/19 11:49:58 PM - Pokretanje programa
+12/14/19 11:50:00 PM - Pokretanje glavnog izbornika
+12/14/19 11:50:03 PM - Prikaz rang liste
+12/14/19 11:50:09 PM - Pokretanje glavnog izbornika
+12/14/19 11:51:07 PM - Obrisan klub Dinamo
+12/14/19 11:51:37 PM - Pokretanje glavnog izbornika
+12/14/19 11:51:40 PM - Pokretanje glavnog izbornika
+12/14/19 11:51:44 PM - Obrisan klub Dinamo
+12/14/19 11:51:45 PM - Pokretanje glavnog izbornika
+12/14/19 11:51:53 PM - Dodan klub Dinamo
+12/14/19 11:52:09 PM - Pokretanje glavnog izbornika
+12/14/19 11:52:17 PM - Obrisan igrac Ime0 Prezime0
+12/14/19 11:52:22 PM - Pokretanje glavnog izbornika
+12/14/19 11:52:30 PM - Prijelaz Ime108 Prezime108 u Hajduk
+12/14/19 11:52:35 PM - Pokretanje glavnog izbornika
+12/14/19 11:52:37 PM - Odabran prikaz klubova i igraca
+12/14/19 11:53:31 PM - Pokretanje programa
+12/14/19 11:53:32 PM - Pokretanje glavnog izbornika
+12/14/19 11:53:34 PM - Odabran prikaz klubova i igraca
+12/14/19 11:54:11 PM - Pokretanje glavnog izbornika
+12/14/19 11:55:30 PM - Pokretanje programa
+12/14/19 11:55:32 PM - Pokretanje glavnog izbornika
+12/14/19 11:55:43 PM - Dodan igrac Ime Prezime u klub: Dinamo
+12/14/19 11:58:41 PM - Pokretanje programa
+12/14/19 11:58:42 PM - Pokretanje glavnog izbornika
+12/14/19 11:58:54 PM - Pokretanje glavnog izbornika
+12/15/19 12:10:40 AM - Pokretanje programa
+12/15/19 12:10:42 AM - Pokretanje glavnog izbornika
+12/15/19 12:10:52 AM - Pokretanje programa
+12/15/19 12:10:54 AM - Pokretanje glavnog izbornika
+12/15/19 12:11:02 AM - Obrisan igrac: 110
+12/15/19 12:11:04 AM - Pokretanje glavnog izbornika
+12/15/19 12:11:09 AM - Obrisan igrac: 108
+12/15/19 12:17:06 AM - Pokretanje programa
+12/15/19 12:17:07 AM - Pokretanje glavnog izbornika
+12/15/19 12:19:43 AM - Pokretanje programa
+12/15/19 12:19:45 AM - Pokretanje glavnog izbornika
+12/15/19 12:20:53 AM - Pokretanje programa
+12/15/19 12:20:54 AM - Pokretanje glavnog izbornika
+12/15/19 12:21:54 AM - Pokretanje programa
+12/15/19 12:22:03 AM - Pokretanje glavnog izbornika
+12/15/19 12:23:08 AM - Pokretanje programa
+12/15/19 12:23:33 AM - Pokretanje programa
+12/15/19 12:24:48 AM - Pokretanje programa
+12/15/19 12:24:50 AM - Pokretanje glavnog izbornika
+12/15/19 12:25:49 AM - Pokretanje programa
+12/15/19 12:25:51 AM - Pokretanje glavnog izbornika
+12/15/19 12:25:52 AM - Pokretanje glavnog izbornika
+12/15/19 12:26:25 AM - Pokretanje programa
+12/15/19 12:26:26 AM - Pokretanje glavnog izbornika
+12/15/19 12:26:28 AM - Pokretanje glavnog izbornika
+12/15/19 12:30:49 AM - Pokretanje programa
+12/15/19 12:30:50 AM - Pokretanje glavnog izbornika
+12/15/19 12:31:00 AM - Pokretanje programa
+12/15/19 12:31:03 AM - Pokretanje glavnog izbornika
+12/15/19 12:31:04 AM - Pokretanje glavnog izbornika
+12/15/19 12:31:47 AM - Pokretanje programa
+12/15/19 12:32:42 AM - Pokretanje glavnog izbornika
+12/15/19 12:32:55 AM - Pokretanje glavnog izbornika
+12/15/19 12:33:47 AM - Pokretanje programa
+12/15/19 12:36:24 AM - Pokretanje programa
+12/15/19 12:36:46 AM - Pokretanje glavnog izbornika
+12/15/19 12:36:57 AM - Pokretanje programa
+12/15/19 12:37:02 AM - Pokretanje glavnog izbornika
+12/15/19 12:37:47 AM - Pokretanje programa
+12/15/19 12:37:52 AM - Pokretanje glavnog izbornika
+Prijava korisnika: Marcel
+12/15/19 12:38:19 AM - Pokretanje programa
+12/15/19 12:38:21 AM - Pokretanje glavnog izbornika
+12/15/19 12:38:21 AM - Prijava korisnika: Marcel
+12/15/19 12:38:27 AM - Odjava korisnika Marcel
+12/15/19 12:38:31 AM - Pokretanje glavnog izbornika
+12/15/19 12:38:31 AM - Prijava korisnika: root
+12/15/19 12:38:36 AM - Odjava korisnika root
+12/15/19 8:19:03 PM - Pokretanje programa
+12/15/19 8:19:30 PM - Pokretanje glavnog izbornika
+12/15/19 8:19:30 PM - Prijava korisnika: Marcel
+12/15/19 8:19:38 PM - Obrisan klub Hajduk
+12/15/19 8:20:03 PM - Pokretanje glavnog izbornika
+12/15/19 8:20:03 PM - Prijava korisnika: Marcel
+12/15/19 8:20:14 PM - Dodan klub Hajduk
+12/15/19 9:17:34 PM - Pokretanje programa
+12/15/19 9:17:36 PM - Pokretanje glavnog izbornika
+12/15/19 9:17:36 PM - Prijava korisnika: Marcel
+12/15/19 9:17:47 PM - Pokretanje programa
+12/15/19 9:17:49 PM - Pokretanje glavnog izbornika
+12/15/19 9:17:49 PM - Prijava korisnika: root
+12/15/19 9:17:59 PM - Pokretanje glavnog izbornika
+12/15/19 9:17:59 PM - Prijava korisnika: Marcel
+12/15/19 9:18:00 PM - Odjava korisnika Marcel
+12/15/19 10:01:14 PM - Pokretanje programa
+12/15/19 10:01:25 PM - Pokretanje glavnog izbornika
+12/15/19 10:01:25 PM - Prijava korisnika: m
+12/15/19 10:01:28 PM - Odjava korisnika m
+12/15/19 10:04:29 PM - Pokretanje glavnog izbornika
+12/15/19 10:04:29 PM - Prijava korisnika: m
+12/15/19 10:04:32 PM - Odabran prikaz klubova i igraca
+12/15/19 10:06:41 PM - Pokretanje programa
+12/15/19 10:06:44 PM - Pokretanje glavnog izbornika
+12/15/19 10:06:44 PM - Prijava korisnika: m
+12/15/19 10:06:46 PM - Odabran prikaz klubova i igraca
+12/15/19 10:07:35 PM - Pokretanje programa
+12/15/19 10:07:37 PM - Pokretanje glavnog izbornika
+12/15/19 10:07:37 PM - Prijava korisnika: m
+12/15/19 10:07:39 PM - Odabran prikaz klubova i igraca
+12/15/19 10:07:40 PM - Pokretanje glavnog izbornika
+12/15/19 10:07:40 PM - Prijava korisnika: m
+12/15/19 10:07:41 PM - Odjava korisnika m
+12/15/19 10:07:41 PM - Pokretanje glavnog izbornika
+12/15/19 10:07:41 PM - Prijava korisnika: m
+12/15/19 10:16:39 PM - Pokretanje programa
+12/15/19 10:17:08 PM - Pokretanje programa
+12/15/19 10:17:10 PM - Pokretanje glavnog izbornika
+12/15/19 10:17:10 PM - Prijava korisnika: m
+12/15/19 10:17:13 PM - Odabran prikaz klubova i igraca
+12/15/19 10:17:15 PM - Pokretanje glavnog izbornika
+12/15/19 10:17:15 PM - Prijava korisnika: m
+12/15/19 10:17:42 PM - Pokretanje programa
+12/15/19 10:17:48 PM - Pokretanje glavnog izbornika
+12/15/19 10:17:48 PM - Prijava korisnika: m
+12/15/19 10:17:50 PM - Odabran prikaz klubova i igraca
+12/15/19 10:20:40 PM - Pokretanje glavnog izbornika
+12/15/19 10:20:40 PM - Prijava korisnika: m
+12/15/19 10:20:42 PM - Odabran prikaz klubova i igraca
+12/15/19 10:21:19 PM - Pokretanje programa
+12/15/19 10:21:23 PM - Pokretanje glavnog izbornika
+12/15/19 10:21:23 PM - Prijava korisnika: m
+12/15/19 10:21:26 PM - Odabran prikaz klubova i igraca
+12/15/19 10:21:28 PM - Pokretanje glavnog izbornika
+12/15/19 10:21:28 PM - Prijava korisnika: m
+12/15/19 10:21:29 PM - Odjava korisnika m
+12/15/19 10:21:29 PM - Pokretanje glavnog izbornika
+12/15/19 10:21:29 PM - Prijava korisnika: m
+12/15/19 10:22:08 PM - Pokretanje programa
+12/15/19 10:22:17 PM - Pokretanje glavnog izbornika
+12/15/19 10:22:17 PM - Prijava korisnika: m
+12/15/19 10:22:18 PM - Odabran prikaz klubova i igraca
+12/15/19 10:22:19 PM - Pokretanje glavnog izbornika
+12/15/19 10:22:19 PM - Prijava korisnika: m
+12/15/19 10:22:20 PM - Odjava korisnika m
+12/15/19 10:22:24 PM - Pokretanje glavnog izbornika
+12/15/19 10:22:24 PM - Prijava korisnika: root
+12/15/19 10:22:26 PM - Odjava korisnika root
