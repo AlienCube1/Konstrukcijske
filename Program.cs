@@ -272,9 +272,11 @@ namespace konstruk
                 foreach(XmlNode oNode in oNodes){
                     if(novi[counter].InnerXml==oNode.Attributes["Klub"].Value){
                         broj_igraca +=1;
-                        Console.WriteLine(oNode.Attributes["Ime"].Value);
-                        Console.WriteLine(oNode.Attributes["Prezime"].Value);
-                        
+                        Console.Write(oNode.Attributes["Ime"].Value + " ");
+                        Console.Write(oNode.Attributes["Prezime"].Value+ " \n");
+                        if(broj_igraca==11){
+                            Console.WriteLine("\n");
+                        }                        
                     }                    
                 }
                 if(broj_igraca < 11){
@@ -395,7 +397,7 @@ namespace konstruk
                 int away_lost = 0;
                 int away_win = 0;
                 int home_lost = 0;
-                int home_draw = 0 ;
+                int home_draw = 0;
                 int away_draw = 0;
                 int golovi_doma = 0;
                 int golovi_tamo = 0;
@@ -506,8 +508,7 @@ namespace konstruk
 
 
         ////Funkcije koje sluze za prikaz tablice u 6. funkciji
-        ////Funkcija preuzeta sa: https://stackoverflow.com/questions/856845/how-to-best-way-to-draw-table-in-console-app-c
-        ////Korisnik: Patrick McDonald je kreator funkcija
+    
 static int tableWidth = 100;
 
 static void PrintLine()
@@ -549,7 +550,7 @@ static string AlignCentre(string text, int width)
         ////Funkcija koja prikazuje rang listu i poredak koji se temelji na rezultati.xml
         ////Sve se dodaje u liste, iz lista se cita te se liste na kraju obrisu
         public static void rang_lista(){
-        string putanja = @"logovi.txt";
+            string putanja = @"logovi.txt";
             StreamWriter oFile = new StreamWriter(putanja, true);
             oFile.Write(DateTime.Now + " - Prikaz rang liste" + "\n");
             oFile.Flush();
@@ -640,19 +641,70 @@ static string AlignCentre(string text, int width)
         za_sortirat.Sort();
         za_sortirat.Reverse();
         
-        PrintRow("R.Br","Klub", "Broj utakmica", "Bodovi", "Pobjeda", "Nerijeseno", "Gol razlika");
+        List<int> isti_bodovi = new List<int>();
+        List<int> ostatak = new List<int>();
+        
+       
+        
+
+        //indexi_pon.ForEach(Console.WriteLine);
+        
+        //za_sortirat.ForEach(Console.WriteLine);
+
         
         int rd_br = 1;
-        
+        List<int> uvjet_za_iste_bodove = new List<int>();
+        List<int> uvjet_za_iste_bodove_gol_razlika = new List<int>();
         int brojac=0;
+        //int isti_bodovi_brojac = 0;
+      
+        int brojci = 0;
+        int brojacc = 0;
+        List<int> sort_bodovi = new List<int>();
+        ////Dodaj sve bodoove u listu, dolje provjeravam ako je broj bodova isti 
+        foreach(string brojac_za_golRazliku in nazivi){
+            while(brojacc<10){
+                if(lista_bodova[brojci]==za_sortirat[brojacc]){
+                    uvjet_za_iste_bodove_gol_razlika.Add(gol_dif[brojci]);
+                    sort_bodovi.Add(lista_bodova[brojci]);
+                    brojci=0;
+                    brojacc+=1;
+                }
+                else{
+                    brojci+=1;
+                }
+            }
+        }
+        List<string> Klub = new List<string>();
+        List<int> Sum_tekme = new List<int>();
+        List<int> bodovi_tekme = new List<int>();
+        List<int> pobjede_tekme = new List<int>();
+        List<int> Nerijeseno_tekme = new List<int>();
+        List<int> Gol_razlika_tekme = new List<int>();
+       
         try{
+        int neki_cnt = 0;
         foreach(string naziv_klub in nazivi){
         while(brojac< 10){
+            neki_cnt+=1; //// Za debug
+
             if(lista_bodova[kanter]==za_sortirat[brojac]){
+            //int gol_razlika = zab_gol[brojac]-prim_gol[brojac];
             
-            int gol_razlika = zab_gol[brojac]-prim_gol[brojac];
-            
-            PrintRow(rd_br.ToString(),nazivi[kanter].ToString(),ukupno_tekme[kanter].ToString(),lista_bodova[kanter].ToString(),pobjede[kanter].ToString(),izjedn[kanter].ToString(),gol_dif[kanter].ToString());
+            int temp = lista_bodova[kanter];
+
+            /*foreach(int xy in za_sortirat){
+            Console.WriteLine(xy);}*/
+            Klub.Add(nazivi[kanter]);
+            Sum_tekme.Add(ukupno_tekme[kanter]);
+            bodovi_tekme.Add(lista_bodova[kanter]);
+            pobjede_tekme.Add(pobjede[kanter]);
+            Nerijeseno_tekme.Add(izjedn[kanter]);
+            Gol_razlika_tekme.Add(gol_dif[kanter]);
+
+
+            //PrintRow(rd_br.ToString(),nazivi[kanter].ToString(),ukupno_tekme[kanter].ToString(),lista_bodova[kanter].ToString(),pobjede[kanter].ToString(),izjedn[kanter].ToString(),gol_dif[kanter].ToString());
+                    
             
             nazivi.Remove(nazivi[kanter]);
             ukupno_tekme.Remove(ukupno_tekme[kanter]);
@@ -661,24 +713,82 @@ static string AlignCentre(string text, int width)
             izjedn.Remove(izjedn[kanter]);
             gol_dif.Remove(gol_dif[kanter]);
             
-            gol_razlika = 0;
             rd_br+=1;   
             kanter=0;
             brojac+=1; 
             }
             
+        
+            
             else{
         kanter+=1;
         }
 
-
-        
-        }
-        }
+       }
+         //<--While zagrada
+        } //<--Foreach zagrada
         } //<--Try zagrada
         catch{
-            Console.WriteLine("Greska sa indeksom vjv, napravi 200 iteracija ili ima samo 180 unosa i zato baca error za zadnjih 20");
+            Console.WriteLine("Ni ovdje ne valja");
         }
+        PrintRow("R.Br","Klub", "Broj utakmica", "Bodovi", "Pobjeda", "Nerijeseno", "Gol razlika");
+        int rdni_broj = 0;
+        int redniii_broj = 0;
+        int broj_kluba = 1;
+        
+        try{
+        foreach(int l in za_sortirat){
+            if(Klub.Count == 1){
+                PrintRow(broj_kluba.ToString(),Klub[redniii_broj].ToString(),Sum_tekme[redniii_broj].ToString(),bodovi_tekme[redniii_broj].ToString(),pobjede_tekme[redniii_broj].ToString(),Nerijeseno_tekme[redniii_broj].ToString(),Gol_razlika_tekme[redniii_broj].ToString());
+            }
+            if(bodovi_tekme[redniii_broj] == bodovi_tekme[redniii_broj+1]){
+                if(Gol_razlika_tekme[redniii_broj] >= Gol_razlika_tekme[redniii_broj+1]){
+            PrintRow(broj_kluba.ToString(),Klub[redniii_broj].ToString(),Sum_tekme[redniii_broj].ToString(),bodovi_tekme[redniii_broj].ToString(),pobjede_tekme[redniii_broj].ToString(),Nerijeseno_tekme[redniii_broj].ToString(),Gol_razlika_tekme[redniii_broj].ToString());
+            Klub.Remove(Klub[redniii_broj]);
+            Sum_tekme.Remove(Sum_tekme[redniii_broj]);
+            bodovi_tekme.Remove(bodovi_tekme[redniii_broj]);
+            pobjede_tekme.Remove(pobjede_tekme[redniii_broj]);
+            Nerijeseno_tekme.Remove(Nerijeseno_tekme[redniii_broj]);
+            Gol_razlika_tekme.Remove(Gol_razlika_tekme[redniii_broj]);
+            
+            //redniii_broj+=1;
+            broj_kluba+=1;
+                } 
+                else if(Gol_razlika_tekme[redniii_broj] <= Gol_razlika_tekme[redniii_broj+1]){
+                //redniii_broj+=1;
+                PrintRow(broj_kluba.ToString(), Klub[redniii_broj+1].ToString(), Sum_tekme[redniii_broj+1].ToString(), bodovi_tekme[redniii_broj+1].ToString(),pobjede_tekme[redniii_broj+1].ToString(), Nerijeseno_tekme[redniii_broj+1].ToString(), Gol_razlika_tekme[redniii_broj+1].ToString());
+                Klub.Remove(Klub[redniii_broj+1]);
+            Sum_tekme.Remove(Sum_tekme[redniii_broj+1]);
+            bodovi_tekme.Remove(bodovi_tekme[redniii_broj+1]);
+            pobjede_tekme.Remove(pobjede_tekme[redniii_broj+1]);
+            Nerijeseno_tekme.Remove(Nerijeseno_tekme[redniii_broj+1]);
+            Gol_razlika_tekme.Remove(Gol_razlika_tekme[redniii_broj+1]);
+                //redniii_broj+=1;
+                broj_kluba+=1;
+                }
+        
+            }
+            else {
+            PrintRow(broj_kluba.ToString(),Klub[redniii_broj].ToString(),Sum_tekme[redniii_broj].ToString(),bodovi_tekme[redniii_broj].ToString(),pobjede_tekme[redniii_broj].ToString(),Nerijeseno_tekme[redniii_broj].ToString(),Gol_razlika_tekme[redniii_broj].ToString());
+            Klub.Remove(Klub[redniii_broj]);
+            Sum_tekme.Remove(Sum_tekme[redniii_broj]);
+            bodovi_tekme.Remove(bodovi_tekme[redniii_broj]);
+            pobjede_tekme.Remove(pobjede_tekme[redniii_broj]);
+            Nerijeseno_tekme.Remove(Nerijeseno_tekme[redniii_broj]);
+            Gol_razlika_tekme.Remove(Gol_razlika_tekme[redniii_broj]);
+            //redniii_broj+=1;
+            broj_kluba+=1;
+            } 
+        rdni_broj+=1;
+        }
+        }
+        catch{
+            Console.WriteLine("Nes ne valja");
+        }
+
+
+
+
         enter_esc();
         }
         ////Funkcija koja provjerava da li je korisnik root, funkcija ima parametar username
@@ -815,14 +925,13 @@ static string AlignCentre(string text, int width)
                 Console.WriteLine("Nevazeci unos");
             }
             
-
             }
         }
         else{
             Console.WriteLine("Pogresno korisnicko ime i/ili lozinka!");
             izbornik();
-        }
-        }
+                }
+            }
         }
     }
 }

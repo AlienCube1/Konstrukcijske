@@ -1,123 +1,123 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <data>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Varazdin" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
@@ -126,88 +126,82 @@
   <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
+  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
+  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Istra 1961" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
@@ -216,106 +210,112 @@
   <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
   <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Gorica" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
@@ -324,16 +324,16 @@
   <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
@@ -342,124 +342,118 @@
   <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
+  <Ekipa Ime="NK Osijek" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
   <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
+  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Osijek" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
   <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="3" Primljeni="3">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Lokomotiva" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="HNK Rijeka" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="4" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
@@ -468,58 +462,64 @@
   <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+  <Ekipa Ime="HNK Rijeka" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="2" Primljeni="2">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="4">
-    <ID>PH</ID>
-  </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="1">
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+  <Ekipa Ime="Slaven Belupo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="4" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Slaven Belupo" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="4">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="2">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="3">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="5" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="NK Inter Zapresic" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="5">
+    <ID>PH</ID>
+  </Ekipa>
+  <Ekipa Ime="Hajduk" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="5" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
   <Ekipa Ime="NK Inter Zapresic" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
@@ -528,16 +528,16 @@
   <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="4" Primljeni="3">
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="2" Primljeni="1">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="3" Primljeni="4">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="1" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Dinamo" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+  <Ekipa Ime="Dinamo" Pobjede="1" Porazi="0" Nerijeseno="0" Golovi="3" Primljeni="2">
     <ID>PH</ID>
   </Ekipa>
-  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="0" Nerijeseno="1" Golovi="1" Primljeni="1">
+  <Ekipa Ime="Hajduk" Pobjede="0" Porazi="1" Nerijeseno="0" Golovi="2" Primljeni="3">
     <ID>PH</ID>
   </Ekipa>
 </data>

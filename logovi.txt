@@ -1550,3 +1550,789 @@
 12/16/19 1:31:06 PM - Prikaz rang liste
 12/16/19 1:35:09 PM - Pokretanje glavnog izbornika
 12/16/19 1:35:09 PM - Prijava korisnika: m
+12/16/19 1:42:43 PM - Pokretanje programa
+12/16/19 1:46:32 PM - Pokretanje glavnog izbornika
+12/16/19 1:46:32 PM - Prijava korisnika: m
+12/16/19 1:46:45 PM - Odabran prikaz klubova i igraca
+12/16/19 1:48:29 PM - Pokretanje glavnog izbornika
+12/16/19 1:48:29 PM - Prijava korisnika: m
+12/16/19 1:49:10 PM - Pokrenuta simulacija utakmica
+12/16/19 1:54:02 PM - Pokretanje glavnog izbornika
+12/16/19 1:54:02 PM - Prijava korisnika: m
+12/16/19 1:54:04 PM - Prikaz rang liste
+12/16/19 1:54:32 PM - Pokretanje glavnog izbornika
+12/16/19 1:54:32 PM - Prijava korisnika: m
+12/16/19 1:54:45 PM - Pokretanje programa
+12/16/19 1:54:47 PM - Pokretanje glavnog izbornika
+12/16/19 1:54:47 PM - Prijava korisnika: m
+12/16/19 1:54:48 PM - Prikaz rang liste
+12/16/19 1:55:58 PM - Pokretanje glavnog izbornika
+12/16/19 1:55:58 PM - Prijava korisnika: m
+12/16/19 1:57:00 PM - Prikaz rang liste
+12/16/19 2:02:12 PM - Pokretanje glavnog izbornika
+12/16/19 2:02:12 PM - Prijava korisnika: m
+12/16/19 2:03:22 PM - Prikaz rang liste
+12/16/19 2:04:26 PM - Pokretanje glavnog izbornika
+12/16/19 2:04:26 PM - Prijava korisnika: m
+12/16/19 2:04:30 PM - Odjava korisnika m
+12/17/19 12:47:12 AM - Pokretanje programa
+12/17/19 12:47:18 AM - Pokretanje glavnog izbornika
+12/17/19 12:47:18 AM - Prijava korisnika: m
+12/17/19 12:47:21 AM - Odabran prikaz klubova i igraca
+12/17/19 12:48:25 AM - Pokretanje programa
+12/17/19 12:48:35 AM - Pokretanje glavnog izbornika
+12/17/19 12:48:35 AM - Prijava korisnika: m
+12/17/19 12:48:43 AM - Pokretanje programa
+12/17/19 12:48:44 AM - Pokretanje glavnog izbornika
+12/17/19 12:48:44 AM - Prijava korisnika: m
+12/17/19 12:48:45 AM - Odabran prikaz klubova i igraca
+12/17/19 12:49:00 AM - Pokretanje programa
+12/17/19 12:49:16 AM - Pokretanje glavnog izbornika
+12/17/19 12:49:16 AM - Prijava korisnika: m
+12/17/19 12:49:18 AM - Odabran prikaz klubova i igraca
+12/17/19 12:54:41 AM - Pokretanje programa
+12/17/19 12:54:42 AM - Pokretanje glavnog izbornika
+12/17/19 12:54:42 AM - Prijava korisnika: m
+12/17/19 12:54:53 AM - Pokretanje programa
+12/17/19 12:54:54 AM - Pokretanje glavnog izbornika
+12/17/19 12:54:54 AM - Prijava korisnika: m
+12/17/19 12:54:55 AM - Odabran prikaz klubova i igraca
+12/17/19 12:54:59 AM - Pokretanje glavnog izbornika
+12/17/19 12:54:59 AM - Prijava korisnika: m
+12/17/19 12:55:02 AM - Prikaz rang liste
+12/17/19 1:09:43 AM - Pokretanje glavnog izbornika
+12/17/19 1:09:43 AM - Prijava korisnika: m
+12/17/19 1:24:55 AM - Pokretanje programa
+12/17/19 1:24:56 AM - Pokretanje glavnog izbornika
+12/17/19 1:24:56 AM - Prijava korisnika: m
+12/17/19 1:24:57 AM - Prikaz rang liste
+12/17/19 2:02:04 AM - Pokretanje programa
+12/17/19 2:02:07 AM - Pokretanje glavnog izbornika
+12/17/19 2:02:07 AM - Prijava korisnika: m
+12/17/19 2:02:09 AM - Prikaz rang liste
+12/17/19 2:03:23 AM - Pokretanje programa
+12/17/19 2:03:25 AM - Pokretanje glavnog izbornika
+12/17/19 2:03:25 AM - Prijava korisnika: m
+12/17/19 2:03:31 AM - Odabran prikaz klubova i igraca
+12/17/19 2:03:32 AM - Pokretanje glavnog izbornika
+12/17/19 2:03:32 AM - Prijava korisnika: m
+12/17/19 2:03:33 AM - Prikaz rang liste
+12/17/19 2:04:39 AM - Pokretanje programa
+12/17/19 2:04:40 AM - Pokretanje glavnog izbornika
+12/17/19 2:04:40 AM - Prijava korisnika: m
+12/17/19 2:04:43 AM - Prikaz rang liste
+12/17/19 2:05:23 AM - Pokretanje programa
+12/17/19 2:05:24 AM - Pokretanje glavnog izbornika
+12/17/19 2:05:24 AM - Prijava korisnika: m
+12/17/19 2:05:25 AM - Prikaz rang liste
+12/17/19 2:12:59 AM - Pokretanje programa
+12/17/19 2:13:01 AM - Pokretanje glavnog izbornika
+12/17/19 2:13:01 AM - Prijava korisnika: m
+12/17/19 2:13:03 AM - Prikaz rang liste
+12/17/19 2:14:58 AM - Pokretanje programa
+12/17/19 2:14:59 AM - Pokretanje glavnog izbornika
+12/17/19 2:14:59 AM - Prijava korisnika: m
+12/17/19 2:15:00 AM - Prikaz rang liste
+12/17/19 2:18:55 AM - Pokretanje programa
+12/17/19 2:18:57 AM - Pokretanje glavnog izbornika
+12/17/19 2:18:57 AM - Prijava korisnika: m
+12/17/19 2:19:05 AM - Pokretanje programa
+12/17/19 2:19:07 AM - Pokretanje glavnog izbornika
+12/17/19 2:19:07 AM - Prijava korisnika: m
+12/17/19 2:19:09 AM - Prikaz rang liste
+12/17/19 2:21:19 AM - Pokretanje programa
+12/17/19 2:21:20 AM - Pokretanje glavnog izbornika
+12/17/19 2:21:20 AM - Prijava korisnika: m
+12/17/19 2:21:22 AM - Prikaz rang liste
+12/17/19 2:23:24 AM - Pokretanje programa
+12/17/19 2:23:26 AM - Pokretanje glavnog izbornika
+12/17/19 2:23:26 AM - Prijava korisnika: m
+12/17/19 2:23:27 AM - Prikaz rang liste
+12/17/19 2:24:22 AM - Pokretanje programa
+12/17/19 2:24:24 AM - Pokretanje glavnog izbornika
+12/17/19 2:24:24 AM - Prijava korisnika: m
+12/17/19 2:24:25 AM - Prikaz rang liste
+12/17/19 2:25:12 AM - Pokretanje programa
+12/17/19 2:25:14 AM - Pokretanje glavnog izbornika
+12/17/19 2:25:14 AM - Prijava korisnika: m
+12/17/19 2:25:15 AM - Prikaz rang liste
+12/17/19 2:26:12 AM - Pokretanje programa
+12/17/19 2:26:13 AM - Pokretanje glavnog izbornika
+12/17/19 2:26:13 AM - Prijava korisnika: m
+12/17/19 2:26:15 AM - Prikaz rang liste
+12/17/19 2:26:37 AM - Pokretanje programa
+12/17/19 2:26:41 AM - Pokretanje glavnog izbornika
+12/17/19 2:26:41 AM - Prijava korisnika: m
+12/17/19 2:26:43 AM - Prikaz rang liste
+12/17/19 2:28:17 AM - Pokretanje programa
+12/17/19 2:28:19 AM - Pokretanje glavnog izbornika
+12/17/19 2:28:19 AM - Prijava korisnika: m
+12/17/19 2:28:20 AM - Prikaz rang liste
+12/17/19 2:30:39 AM - Pokretanje programa
+12/17/19 2:30:40 AM - Pokretanje glavnog izbornika
+12/17/19 2:30:40 AM - Prijava korisnika: m
+12/17/19 2:30:42 AM - Prikaz rang liste
+12/17/19 3:00:36 AM - Pokretanje programa
+12/17/19 3:00:37 AM - Pokretanje glavnog izbornika
+12/17/19 3:00:37 AM - Prijava korisnika: m
+12/17/19 3:00:39 AM - Prikaz rang liste
+12/17/19 3:08:19 AM - Pokretanje programa
+12/17/19 3:08:21 AM - Pokretanje glavnog izbornika
+12/17/19 3:08:21 AM - Prijava korisnika: m
+12/17/19 3:08:23 AM - Prikaz rang liste
+12/17/19 3:34:01 AM - Pokretanje programa
+12/17/19 3:34:43 AM - Pokretanje programa
+12/17/19 3:34:45 AM - Pokretanje glavnog izbornika
+12/17/19 3:34:45 AM - Prijava korisnika: m
+12/17/19 3:34:46 AM - Prikaz rang liste
+12/17/19 3:41:58 AM - Pokretanje programa
+12/17/19 3:42:00 AM - Pokretanje glavnog izbornika
+12/17/19 3:42:00 AM - Prijava korisnika: m
+12/17/19 3:42:04 AM - Prikaz rang liste
+12/17/19 3:44:41 AM - Pokretanje programa
+12/17/19 3:44:42 AM - Pokretanje glavnog izbornika
+12/17/19 3:44:42 AM - Prijava korisnika: m
+12/17/19 3:44:43 AM - Prikaz rang liste
+12/17/19 3:45:35 AM - Pokretanje programa
+12/17/19 3:45:36 AM - Pokretanje glavnog izbornika
+12/17/19 3:45:36 AM - Prijava korisnika: m
+12/17/19 3:45:37 AM - Prikaz rang liste
+12/17/19 3:48:59 AM - Pokretanje programa
+12/17/19 3:49:01 AM - Pokretanje glavnog izbornika
+12/17/19 3:49:01 AM - Prijava korisnika: m
+12/17/19 3:49:03 AM - Prikaz rang liste
+12/17/19 3:50:58 AM - Pokretanje programa
+12/17/19 3:51:00 AM - Pokretanje glavnog izbornika
+12/17/19 3:51:00 AM - Prijava korisnika: m
+12/17/19 3:51:01 AM - Prikaz rang liste
+12/17/19 3:52:34 AM - Pokretanje programa
+12/17/19 3:52:34 AM - Pokretanje glavnog izbornika
+12/17/19 3:52:34 AM - Prijava korisnika: m
+12/17/19 3:52:36 AM - Prikaz rang liste
+12/17/19 3:53:20 AM - Pokretanje programa
+12/17/19 3:53:21 AM - Pokretanje glavnog izbornika
+12/17/19 3:53:21 AM - Prijava korisnika: m
+12/17/19 3:53:22 AM - Prikaz rang liste
+12/17/19 4:00:31 AM - Pokretanje glavnog izbornika
+12/17/19 4:00:31 AM - Prijava korisnika: m
+12/17/19 4:00:49 AM - Pokretanje programa
+12/17/19 4:00:52 AM - Pokretanje glavnog izbornika
+12/17/19 4:00:52 AM - Prijava korisnika: m
+12/17/19 4:00:53 AM - Prikaz rang liste
+12/17/19 4:14:28 AM - Pokretanje programa
+12/17/19 4:14:29 AM - Pokretanje glavnog izbornika
+12/17/19 4:14:29 AM - Prijava korisnika: m
+12/17/19 4:14:30 AM - Prikaz rang liste
+12/17/19 4:14:47 AM - Pokretanje programa
+12/17/19 4:14:49 AM - Pokretanje glavnog izbornika
+12/17/19 4:14:49 AM - Prijava korisnika: m
+12/17/19 4:14:51 AM - Prikaz rang liste
+12/17/19 4:18:22 AM - Pokretanje programa
+12/17/19 4:18:23 AM - Pokretanje glavnog izbornika
+12/17/19 4:18:23 AM - Prijava korisnika: m
+12/17/19 4:18:24 AM - Prikaz rang liste
+12/17/19 4:19:16 AM - Pokretanje glavnog izbornika
+12/17/19 4:19:16 AM - Prijava korisnika: m
+12/17/19 4:19:49 AM - Pokretanje programa
+12/17/19 4:19:54 AM - Pokretanje glavnog izbornika
+12/17/19 4:19:54 AM - Prijava korisnika: m
+12/17/19 4:19:55 AM - Prikaz rang liste
+12/17/19 4:19:58 AM - Pokretanje glavnog izbornika
+12/17/19 4:19:58 AM - Prijava korisnika: m
+12/17/19 4:20:00 AM - Prikaz rang liste
+12/17/19 4:20:02 AM - Pokretanje glavnog izbornika
+12/17/19 4:20:02 AM - Prijava korisnika: m
+12/17/19 4:20:03 AM - Prikaz rang liste
+12/17/19 4:20:32 AM - Pokretanje programa
+12/17/19 4:20:33 AM - Pokretanje glavnog izbornika
+12/17/19 4:20:33 AM - Prijava korisnika: m
+12/17/19 4:20:35 AM - Prikaz rang liste
+12/17/19 4:20:45 AM - Pokretanje programa
+12/17/19 4:20:47 AM - Pokretanje glavnog izbornika
+12/17/19 4:20:47 AM - Prijava korisnika: m
+12/17/19 4:20:47 AM - Prikaz rang liste
+12/17/19 4:24:56 AM - Pokretanje glavnog izbornika
+12/17/19 4:24:56 AM - Prijava korisnika: m
+12/17/19 4:25:02 AM - Pokretanje programa
+12/17/19 4:25:03 AM - Pokretanje glavnog izbornika
+12/17/19 4:25:03 AM - Prijava korisnika: m
+12/17/19 4:25:04 AM - Prikaz rang liste
+12/17/19 4:25:16 AM - Pokretanje programa
+12/17/19 4:25:18 AM - Pokretanje glavnog izbornika
+12/17/19 4:25:18 AM - Prijava korisnika: m
+12/17/19 4:25:20 AM - Prikaz rang liste
+12/17/19 4:26:43 AM - Pokretanje programa
+12/17/19 4:26:44 AM - Pokretanje glavnog izbornika
+12/17/19 4:26:44 AM - Prijava korisnika: m
+12/17/19 4:26:46 AM - Prikaz rang liste
+12/17/19 4:27:32 AM - Pokretanje glavnog izbornika
+12/17/19 4:27:32 AM - Prijava korisnika: m
+12/17/19 4:27:33 AM - Prikaz rang liste
+12/17/19 4:27:39 AM - Pokretanje glavnog izbornika
+12/17/19 4:27:39 AM - Prijava korisnika: m
+12/17/19 4:27:40 AM - Prikaz rang liste
+12/17/19 4:27:41 AM - Pokretanje glavnog izbornika
+12/17/19 4:27:41 AM - Prijava korisnika: m
+12/17/19 4:27:47 AM - Pokretanje programa
+12/17/19 4:27:49 AM - Pokretanje glavnog izbornika
+12/17/19 4:27:49 AM - Prijava korisnika: m
+12/17/19 4:27:51 AM - Prikaz rang liste
+12/17/19 4:28:26 AM - Pokretanje programa
+12/17/19 4:28:27 AM - Pokretanje glavnog izbornika
+12/17/19 4:28:27 AM - Prijava korisnika: m
+12/17/19 4:28:28 AM - Prikaz rang liste
+12/17/19 4:29:13 AM - Pokretanje programa
+12/17/19 4:29:14 AM - Pokretanje glavnog izbornika
+12/17/19 4:29:14 AM - Prijava korisnika: m
+12/17/19 4:29:15 AM - Prikaz rang liste
+12/17/19 4:32:46 AM - Pokretanje programa
+12/17/19 4:32:50 AM - Pokretanje glavnog izbornika
+12/17/19 4:32:50 AM - Prijava korisnika: m
+12/17/19 4:32:52 AM - Prikaz rang liste
+12/17/19 4:36:42 AM - Pokretanje programa
+12/17/19 4:36:44 AM - Pokretanje glavnog izbornika
+12/17/19 4:36:44 AM - Prijava korisnika: m
+12/17/19 4:36:49 AM - Prikaz rang liste
+12/17/19 4:37:15 AM - Pokretanje programa
+12/17/19 4:37:16 AM - Pokretanje glavnog izbornika
+12/17/19 4:37:16 AM - Prijava korisnika: m
+12/17/19 4:37:18 AM - Prikaz rang liste
+12/17/19 4:37:46 AM - Pokretanje glavnog izbornika
+12/17/19 4:37:46 AM - Prijava korisnika: m
+12/17/19 4:37:54 AM - Pokretanje programa
+12/17/19 4:37:56 AM - Pokretanje glavnog izbornika
+12/17/19 4:37:56 AM - Prijava korisnika: m
+12/17/19 4:37:58 AM - Prikaz rang liste
+12/17/19 4:39:18 AM - Pokretanje programa
+12/17/19 4:39:20 AM - Pokretanje glavnog izbornika
+12/17/19 4:39:20 AM - Prijava korisnika: m
+12/17/19 4:39:21 AM - Prikaz rang liste
+12/17/19 4:47:37 AM - Pokretanje programa
+12/17/19 4:47:39 AM - Pokretanje glavnog izbornika
+12/17/19 4:47:39 AM - Prijava korisnika: m
+12/17/19 4:47:40 AM - Prikaz rang liste
+12/17/19 4:48:13 AM - Pokretanje programa
+12/17/19 4:56:03 AM - Pokretanje glavnog izbornika
+12/17/19 4:56:03 AM - Prijava korisnika: m
+12/17/19 4:56:05 AM - Prikaz rang liste
+12/17/19 5:20:59 AM - Pokretanje programa
+12/17/19 5:20:59 AM - Pokretanje glavnog izbornika
+12/17/19 5:20:59 AM - Prijava korisnika: m
+12/17/19 5:21:01 AM - Prikaz rang liste
+12/17/19 5:31:45 AM - Pokretanje programa
+12/17/19 5:31:46 AM - Pokretanje glavnog izbornika
+12/17/19 5:31:46 AM - Prijava korisnika: m
+12/17/19 5:31:48 AM - Prikaz rang liste
+12/17/19 5:32:03 AM - Pokretanje glavnog izbornika
+12/17/19 5:32:03 AM - Prijava korisnika: m
+12/17/19 5:32:47 AM - Pokretanje programa
+12/17/19 5:32:48 AM - Pokretanje glavnog izbornika
+12/17/19 5:32:48 AM - Prijava korisnika: m
+12/17/19 5:32:49 AM - Prikaz rang liste
+12/17/19 5:33:40 AM - Pokretanje glavnog izbornika
+12/17/19 5:33:40 AM - Prijava korisnika: m
+12/17/19 5:33:46 AM - Pokretanje programa
+12/17/19 5:33:47 AM - Pokretanje glavnog izbornika
+12/17/19 5:33:47 AM - Prijava korisnika: m
+12/17/19 5:33:48 AM - Prikaz rang liste
+12/17/19 5:34:28 AM - Pokretanje programa
+12/17/19 5:34:29 AM - Pokretanje glavnog izbornika
+12/17/19 5:34:29 AM - Prijava korisnika: m
+12/17/19 5:34:29 AM - Prikaz rang liste
+12/17/19 5:35:22 AM - Pokretanje programa
+12/17/19 5:35:23 AM - Pokretanje glavnog izbornika
+12/17/19 5:35:23 AM - Prijava korisnika: m
+12/17/19 5:35:23 AM - Prikaz rang liste
+12/17/19 5:36:06 AM - Pokretanje programa
+12/17/19 5:36:08 AM - Pokretanje glavnog izbornika
+12/17/19 5:36:08 AM - Prijava korisnika: m
+12/17/19 5:36:09 AM - Prikaz rang liste
+12/17/19 5:37:33 AM - Pokretanje programa
+12/17/19 5:37:34 AM - Pokretanje glavnog izbornika
+12/17/19 5:37:34 AM - Prijava korisnika: m
+12/17/19 5:37:36 AM - Prikaz rang liste
+12/17/19 5:41:44 AM - Pokretanje programa
+12/17/19 5:41:46 AM - Pokretanje glavnog izbornika
+12/17/19 5:41:46 AM - Prijava korisnika: m
+12/17/19 5:41:47 AM - Prikaz rang liste
+12/17/19 5:44:22 AM - Pokretanje glavnog izbornika
+12/17/19 5:44:22 AM - Prijava korisnika: m
+12/17/19 5:44:24 AM - Odjava korisnika m
+12/17/19 5:45:13 AM - Pokretanje programa
+12/17/19 5:45:16 AM - Pokretanje glavnog izbornika
+12/17/19 5:45:16 AM - Prijava korisnika: m
+12/17/19 5:45:18 AM - Prikaz rang liste
+12/17/19 5:46:26 AM - Pokretanje programa
+12/17/19 5:46:26 AM - Pokretanje glavnog izbornika
+12/17/19 5:46:26 AM - Prijava korisnika: m
+12/17/19 5:46:29 AM - Prikaz rang liste
+12/17/19 5:55:43 AM - Pokretanje programa
+12/17/19 5:55:44 AM - Pokretanje glavnog izbornika
+12/17/19 5:55:44 AM - Prijava korisnika: m
+12/17/19 5:55:45 AM - Prikaz rang liste
+12/17/19 5:56:24 AM - Pokretanje programa
+12/17/19 5:56:24 AM - Pokretanje glavnog izbornika
+12/17/19 5:56:24 AM - Prijava korisnika: m
+12/17/19 5:56:26 AM - Prikaz rang liste
+12/17/19 5:57:15 AM - Pokretanje programa
+12/17/19 5:58:17 AM - Pokretanje glavnog izbornika
+12/17/19 5:58:17 AM - Prijava korisnika: m
+12/17/19 5:58:18 AM - Prikaz rang liste
+12/17/19 5:59:15 AM - Pokretanje programa
+12/17/19 5:59:17 AM - Pokretanje glavnog izbornika
+12/17/19 5:59:17 AM - Prijava korisnika: m
+12/17/19 5:59:19 AM - Prikaz rang liste
+12/17/19 5:59:39 AM - Pokretanje programa
+12/17/19 5:59:39 AM - Pokretanje glavnog izbornika
+12/17/19 5:59:39 AM - Prijava korisnika: m
+12/17/19 5:59:41 AM - Prikaz rang liste
+12/17/19 9:02:48 AM - Pokretanje programa
+12/17/19 9:02:51 AM - Pokretanje glavnog izbornika
+12/17/19 9:02:51 AM - Prijava korisnika: m
+12/17/19 9:02:52 AM - Prikaz rang liste
+12/17/19 9:03:29 AM - Pokretanje programa
+12/17/19 9:03:30 AM - Pokretanje glavnog izbornika
+12/17/19 9:03:30 AM - Prijava korisnika: m
+12/17/19 9:03:32 AM - Prikaz rang liste
+12/17/19 9:04:12 AM - Pokretanje programa
+12/17/19 9:04:13 AM - Pokretanje glavnog izbornika
+12/17/19 9:04:13 AM - Prijava korisnika: m
+12/17/19 9:04:15 AM - Prikaz rang liste
+12/17/19 9:11:27 AM - Pokretanje programa
+12/17/19 9:11:28 AM - Pokretanje glavnog izbornika
+12/17/19 9:11:28 AM - Prijava korisnika: m
+12/17/19 9:11:30 AM - Prikaz rang liste
+12/17/19 9:27:55 AM - Pokretanje programa
+12/17/19 9:27:55 AM - Pokretanje glavnog izbornika
+12/17/19 9:27:55 AM - Prijava korisnika: m
+12/17/19 9:28:02 AM - Pokretanje programa
+12/17/19 9:28:06 AM - Pokretanje glavnog izbornika
+12/17/19 9:28:06 AM - Prijava korisnika: m
+12/17/19 9:28:07 AM - Prikaz rang liste
+12/17/19 9:30:36 AM - Pokretanje programa
+12/17/19 9:30:38 AM - Pokretanje glavnog izbornika
+12/17/19 9:30:38 AM - Prijava korisnika: m
+12/17/19 9:30:39 AM - Prikaz rang liste
+12/17/19 9:33:24 AM - Pokretanje programa
+12/17/19 9:33:26 AM - Pokretanje glavnog izbornika
+12/17/19 9:33:26 AM - Prijava korisnika: m
+12/17/19 9:33:29 AM - Prikaz rang liste
+12/20/19 12:31:02 AM - Pokretanje programa
+12/20/19 12:31:04 AM - Pokretanje glavnog izbornika
+12/20/19 12:31:04 AM - Prijava korisnika: m
+12/20/19 12:31:05 AM - Prikaz rang liste
+12/20/19 12:31:48 AM - Pokretanje programa
+12/20/19 12:31:49 AM - Pokretanje glavnog izbornika
+12/20/19 12:31:49 AM - Prijava korisnika: m
+12/20/19 12:31:52 AM - Prikaz rang liste
+12/20/19 12:59:02 AM - Pokretanje glavnog izbornika
+12/20/19 12:59:02 AM - Prijava korisnika: m
+12/20/19 12:59:09 AM - Odabran prikaz klubova i igraca
+12/20/19 12:59:17 AM - Pokretanje glavnog izbornika
+12/20/19 12:59:17 AM - Prijava korisnika: m
+12/20/19 12:59:39 AM - Pokrenuta simulacija utakmica
+12/20/19 12:59:42 AM - Pokretanje glavnog izbornika
+12/20/19 12:59:42 AM - Prijava korisnika: m
+12/20/19 12:59:43 AM - Prikaz rang liste
+12/20/19 1:06:25 AM - Pokretanje programa
+12/20/19 1:06:35 AM - Pokretanje glavnog izbornika
+12/20/19 1:06:35 AM - Prijava korisnika: m
+12/20/19 1:06:37 AM - Prikaz rang liste
+12/20/19 1:08:05 AM - Pokretanje programa
+12/20/19 1:08:08 AM - Pokretanje glavnog izbornika
+12/20/19 1:08:08 AM - Prijava korisnika: m
+12/20/19 1:08:09 AM - Prikaz rang liste
+12/20/19 1:11:20 AM - Pokretanje glavnog izbornika
+12/20/19 1:11:20 AM - Prijava korisnika: m
+12/20/19 1:11:27 AM - Pokretanje programa
+12/20/19 1:11:37 AM - Pokretanje glavnog izbornika
+12/20/19 1:11:37 AM - Prijava korisnika: m
+12/20/19 1:11:39 AM - Prikaz rang liste
+12/20/19 1:12:01 AM - Pokretanje programa
+12/20/19 1:12:03 AM - Pokretanje glavnog izbornika
+12/20/19 1:12:03 AM - Prijava korisnika: m
+12/20/19 1:12:05 AM - Prikaz rang liste
+1/7/20 9:19:33 AM - Pokretanje programa
+1/7/20 9:19:36 AM - Pokretanje glavnog izbornika
+1/7/20 9:19:36 AM - Prijava korisnika: m
+1/7/20 9:19:37 AM - Prikaz rang liste
+1/7/20 12:05:16 PM - Pokretanje programa
+1/7/20 12:05:17 PM - Pokretanje glavnog izbornika
+1/7/20 12:05:17 PM - Prijava korisnika: m
+1/7/20 12:05:26 PM - Pokretanje programa
+1/7/20 12:05:28 PM - Pokretanje glavnog izbornika
+1/7/20 12:05:28 PM - Prijava korisnika: m
+1/7/20 12:05:29 PM - Prikaz rang liste
+1/7/20 12:06:30 PM - Pokretanje programa
+1/7/20 12:06:31 PM - Pokretanje glavnog izbornika
+1/7/20 12:06:31 PM - Prijava korisnika: m
+1/7/20 12:06:32 PM - Prikaz rang liste
+1/7/20 12:08:38 PM - Pokretanje programa
+1/7/20 12:08:39 PM - Pokretanje glavnog izbornika
+1/7/20 12:08:39 PM - Prijava korisnika: m
+1/7/20 12:08:40 PM - Prikaz rang liste
+1/7/20 12:09:03 PM - Pokretanje programa
+1/7/20 12:09:04 PM - Pokretanje glavnog izbornika
+1/7/20 12:09:04 PM - Prijava korisnika: m
+1/7/20 12:09:05 PM - Prikaz rang liste
+1/7/20 12:09:49 PM - Pokretanje programa
+1/7/20 12:09:50 PM - Pokretanje glavnog izbornika
+1/7/20 12:09:50 PM - Prijava korisnika: m
+1/7/20 12:09:51 PM - Prikaz rang liste
+1/7/20 12:16:07 PM - Pokretanje programa
+1/7/20 12:16:08 PM - Pokretanje glavnog izbornika
+1/7/20 12:16:08 PM - Prijava korisnika: m
+1/7/20 12:16:09 PM - Prikaz rang liste
+1/7/20 12:20:46 PM - Pokretanje programa
+1/7/20 12:20:47 PM - Pokretanje glavnog izbornika
+1/7/20 12:20:47 PM - Prijava korisnika: m
+1/7/20 12:20:48 PM - Prikaz rang liste
+1/7/20 2:35:03 PM - Pokretanje programa
+1/7/20 2:35:05 PM - Pokretanje glavnog izbornika
+1/7/20 2:35:05 PM - Prijava korisnika: m
+1/7/20 2:35:09 PM - Odabran prikaz klubova i igraca
+1/7/20 2:35:13 PM - Pokretanje glavnog izbornika
+1/7/20 2:35:13 PM - Prijava korisnika: m
+1/7/20 2:35:15 PM - Prikaz rang liste
+1/7/20 2:35:16 PM - Pokretanje glavnog izbornika
+1/7/20 2:35:16 PM - Prijava korisnika: m
+1/7/20 2:35:18 PM - Odjava korisnika m
+1/7/20 2:35:23 PM - Pokretanje glavnog izbornika
+1/7/20 2:35:23 PM - Prijava korisnika: m
+1/7/20 2:35:25 PM - Odjava korisnika m
+1/7/20 3:11:32 PM - Pokretanje programa
+1/7/20 3:11:34 PM - Pokretanje glavnog izbornika
+1/7/20 3:11:34 PM - Prijava korisnika: m
+1/7/20 3:22:23 PM - Pokretanje programa
+1/7/20 3:22:26 PM - Pokretanje glavnog izbornika
+1/7/20 3:22:26 PM - Prijava korisnika: m
+1/7/20 3:22:28 PM - Prikaz rang liste
+1/7/20 3:24:19 PM - Pokretanje programa
+1/7/20 3:24:23 PM - Pokretanje glavnog izbornika
+1/7/20 3:24:23 PM - Prijava korisnika: m
+1/7/20 3:24:25 PM - Pokrenuta simulacija utakmica
+1/7/20 3:24:30 PM - Pokretanje glavnog izbornika
+1/7/20 3:24:30 PM - Prijava korisnika: m
+1/7/20 3:24:35 PM - Prikaz rang liste
+1/7/20 3:25:23 PM - Pokretanje programa
+1/7/20 3:25:31 PM - Pokretanje glavnog izbornika
+1/7/20 3:25:31 PM - Prijava korisnika: m
+1/7/20 3:25:38 PM - Pokrenuta simulacija utakmica
+1/7/20 3:25:41 PM - Pokretanje glavnog izbornika
+1/7/20 3:25:41 PM - Prijava korisnika: m
+1/7/20 3:25:43 PM - Prikaz rang liste
+1/8/20 3:40:53 PM - Pokretanje programa
+1/8/20 3:41:07 PM - Pokretanje glavnog izbornika
+1/8/20 3:41:07 PM - Prijava korisnika: m
+1/8/20 3:41:14 PM - Pokretanje programa
+1/8/20 3:41:15 PM - Pokretanje glavnog izbornika
+1/8/20 3:41:15 PM - Prijava korisnika: m
+1/8/20 3:41:17 PM - Prikaz rang liste
+1/11/20 6:21:28 PM - Pokretanje programa
+1/11/20 6:21:30 PM - Pokretanje glavnog izbornika
+1/11/20 6:21:30 PM - Prijava korisnika: m
+1/11/20 6:21:32 PM - Odjava korisnika m
+1/11/20 6:21:35 PM - Pokretanje glavnog izbornika
+1/11/20 6:21:35 PM - Prijava korisnika: m
+1/11/20 6:21:36 PM - Prikaz rang liste
+1/11/20 6:41:17 PM - Pokretanje glavnog izbornika
+1/11/20 6:41:17 PM - Prijava korisnika: m
+1/11/20 6:41:19 PM - Pokrenuta simulacija utakmica
+1/11/20 6:41:28 PM - Pokretanje glavnog izbornika
+1/11/20 6:41:28 PM - Prijava korisnika: m
+1/11/20 6:41:31 PM - Prikaz rang liste
+1/11/20 6:41:54 PM - Pokretanje glavnog izbornika
+1/11/20 6:41:54 PM - Prijava korisnika: m
+1/11/20 6:41:56 PM - Pokrenuta simulacija utakmica
+1/11/20 6:41:57 PM - Pokretanje glavnog izbornika
+1/11/20 6:41:57 PM - Prijava korisnika: m
+1/11/20 6:41:58 PM - Prikaz rang liste
+1/12/20 5:21:24 PM - Pokretanje programa
+1/12/20 5:42:26 PM - Pokretanje glavnog izbornika
+1/12/20 5:42:26 PM - Prijava korisnika: m
+1/12/20 5:42:27 PM - Prikaz rang liste
+1/12/20 5:45:14 PM - Pokretanje programa
+1/12/20 5:45:16 PM - Pokretanje glavnog izbornika
+1/12/20 5:45:16 PM - Prijava korisnika: m
+1/12/20 5:45:17 PM - Prikaz rang liste
+1/12/20 5:45:37 PM - Pokretanje programa
+1/12/20 5:45:38 PM - Pokretanje glavnog izbornika
+1/12/20 5:45:38 PM - Prijava korisnika: m
+1/12/20 5:45:39 PM - Prikaz rang liste
+1/12/20 5:56:44 PM - Pokretanje glavnog izbornika
+1/12/20 5:56:44 PM - Prijava korisnika: m
+1/12/20 5:56:56 PM - Pokretanje programa
+1/12/20 5:57:07 PM - Pokretanje programa
+1/12/20 5:57:10 PM - Pokretanje glavnog izbornika
+1/12/20 5:57:10 PM - Prijava korisnika: m
+1/12/20 5:57:12 PM - Prikaz rang liste
+1/12/20 5:59:15 PM - Pokretanje programa
+1/12/20 5:59:18 PM - Pokretanje glavnog izbornika
+1/12/20 5:59:18 PM - Prijava korisnika: m
+1/12/20 5:59:22 PM - Prikaz rang liste
+1/12/20 6:01:17 PM - Pokretanje programa
+1/12/20 6:01:30 PM - Pokretanje programa
+1/12/20 6:01:31 PM - Pokretanje glavnog izbornika
+1/12/20 6:01:31 PM - Prijava korisnika: m
+1/12/20 6:01:32 PM - Prikaz rang liste
+1/12/20 6:02:13 PM - Pokretanje programa
+1/12/20 6:02:15 PM - Pokretanje glavnog izbornika
+1/12/20 6:02:15 PM - Prijava korisnika: m
+1/12/20 6:02:16 PM - Prikaz rang liste
+1/12/20 6:02:28 PM - Pokretanje programa
+1/12/20 6:02:29 PM - Pokretanje glavnog izbornika
+1/12/20 6:02:29 PM - Prijava korisnika: m
+1/12/20 6:02:29 PM - Prikaz rang liste
+1/12/20 6:02:47 PM - Pokretanje programa
+1/12/20 6:02:48 PM - Pokretanje glavnog izbornika
+1/12/20 6:02:48 PM - Prijava korisnika: m
+1/12/20 6:02:48 PM - Prikaz rang liste
+1/12/20 6:03:37 PM - Pokretanje programa
+1/12/20 6:03:38 PM - Pokretanje glavnog izbornika
+1/12/20 6:03:38 PM - Prijava korisnika: m
+1/12/20 6:03:39 PM - Prikaz rang liste
+1/12/20 6:04:01 PM - Pokretanje programa
+1/12/20 6:04:02 PM - Pokretanje glavnog izbornika
+1/12/20 6:04:02 PM - Prijava korisnika: m
+1/12/20 6:04:03 PM - Prikaz rang liste
+1/12/20 6:04:55 PM - Pokretanje programa
+1/12/20 6:04:58 PM - Pokretanje glavnog izbornika
+1/12/20 6:04:58 PM - Prijava korisnika: m
+1/12/20 6:04:59 PM - Prikaz rang liste
+1/12/20 6:06:06 PM - Pokretanje programa
+1/12/20 6:06:09 PM - Pokretanje glavnog izbornika
+1/12/20 6:06:09 PM - Prijava korisnika: m
+1/12/20 6:06:10 PM - Prikaz rang liste
+1/12/20 6:06:34 PM - Pokretanje programa
+1/12/20 6:06:35 PM - Pokretanje glavnog izbornika
+1/12/20 6:06:35 PM - Prijava korisnika: m
+1/12/20 6:06:36 PM - Prikaz rang liste
+1/12/20 6:07:45 PM - Pokretanje programa
+1/12/20 6:07:46 PM - Pokretanje glavnog izbornika
+1/12/20 6:07:46 PM - Prijava korisnika: m
+1/12/20 6:07:47 PM - Prikaz rang liste
+1/12/20 6:09:10 PM - Pokretanje programa
+1/12/20 6:09:12 PM - Pokretanje glavnog izbornika
+1/12/20 6:09:12 PM - Prijava korisnika: m
+1/12/20 6:09:19 PM - Pokretanje programa
+1/12/20 6:09:19 PM - Pokretanje glavnog izbornika
+1/12/20 6:09:19 PM - Prijava korisnika: m
+1/12/20 6:09:20 PM - Prikaz rang liste
+1/12/20 6:10:07 PM - Pokretanje programa
+1/12/20 6:10:08 PM - Pokretanje glavnog izbornika
+1/12/20 6:10:08 PM - Prijava korisnika: m
+1/12/20 6:10:10 PM - Prikaz rang liste
+1/12/20 6:11:09 PM - Pokretanje programa
+1/12/20 6:11:20 PM - Pokretanje glavnog izbornika
+1/12/20 6:11:20 PM - Prijava korisnika: m
+1/12/20 6:11:21 PM - Prikaz rang liste
+1/12/20 6:12:03 PM - Pokretanje programa
+1/12/20 6:12:05 PM - Pokretanje glavnog izbornika
+1/12/20 6:12:05 PM - Prijava korisnika: m
+1/12/20 6:12:06 PM - Prikaz rang liste
+1/12/20 6:14:20 PM - Pokretanje programa
+1/12/20 6:14:21 PM - Pokretanje glavnog izbornika
+1/12/20 6:14:21 PM - Prijava korisnika: m
+1/12/20 6:14:22 PM - Prikaz rang liste
+1/12/20 6:14:50 PM - Pokretanje programa
+1/12/20 6:14:51 PM - Pokretanje glavnog izbornika
+1/12/20 6:14:51 PM - Prijava korisnika: m
+1/12/20 6:14:52 PM - Prikaz rang liste
+1/12/20 6:15:33 PM - Pokretanje programa
+1/12/20 6:15:34 PM - Pokretanje glavnog izbornika
+1/12/20 6:15:34 PM - Prijava korisnika: m
+1/12/20 6:15:36 PM - Prikaz rang liste
+1/12/20 6:17:02 PM - Pokretanje programa
+1/12/20 6:17:03 PM - Pokretanje glavnog izbornika
+1/12/20 6:17:03 PM - Prijava korisnika: m
+1/12/20 6:17:04 PM - Prikaz rang liste
+1/12/20 6:17:39 PM - Pokretanje programa
+1/12/20 6:17:44 PM - Pokretanje glavnog izbornika
+1/12/20 6:17:44 PM - Prijava korisnika: m
+1/12/20 6:17:45 PM - Prikaz rang liste
+1/12/20 6:18:39 PM - Pokretanje glavnog izbornika
+1/12/20 6:18:39 PM - Prijava korisnika: m
+1/12/20 6:18:48 PM - Pokretanje programa
+1/12/20 6:18:49 PM - Pokretanje glavnog izbornika
+1/12/20 6:18:49 PM - Prijava korisnika: m
+1/12/20 6:18:50 PM - Prikaz rang liste
+1/12/20 6:19:31 PM - Pokretanje programa
+1/12/20 6:19:32 PM - Pokretanje glavnog izbornika
+1/12/20 6:19:32 PM - Prijava korisnika: m
+1/12/20 6:19:34 PM - Prikaz rang liste
+1/12/20 6:20:38 PM - Pokretanje programa
+1/12/20 6:20:39 PM - Pokretanje glavnog izbornika
+1/12/20 6:20:39 PM - Prijava korisnika: m
+1/12/20 6:20:40 PM - Prikaz rang liste
+1/12/20 6:21:09 PM - Pokretanje glavnog izbornika
+1/12/20 6:21:09 PM - Prijava korisnika: m
+1/12/20 6:21:10 PM - Pokrenuta simulacija utakmica
+1/12/20 6:21:12 PM - Pokretanje glavnog izbornika
+1/12/20 6:21:12 PM - Prijava korisnika: m
+1/12/20 6:21:13 PM - Prikaz rang liste
+1/12/20 6:22:45 PM - Pokretanje programa
+1/12/20 6:22:54 PM - Pokretanje programa
+1/12/20 6:22:55 PM - Pokretanje glavnog izbornika
+1/12/20 6:22:55 PM - Prijava korisnika: m
+1/12/20 6:22:56 PM - Prikaz rang liste
+1/12/20 6:23:48 PM - Pokretanje programa
+1/12/20 6:23:49 PM - Pokretanje glavnog izbornika
+1/12/20 6:23:49 PM - Prijava korisnika: m
+1/12/20 6:23:50 PM - Prikaz rang liste
+1/12/20 6:24:15 PM - Pokretanje programa
+1/12/20 6:24:17 PM - Pokretanje glavnog izbornika
+1/12/20 6:24:17 PM - Prijava korisnika: m
+1/12/20 6:24:18 PM - Prikaz rang liste
+1/12/20 6:25:35 PM - Pokretanje programa
+1/12/20 6:25:37 PM - Pokretanje glavnog izbornika
+1/12/20 6:25:37 PM - Prijava korisnika: m
+1/12/20 6:25:37 PM - Prikaz rang liste
+1/12/20 6:30:16 PM - Pokretanje programa
+1/12/20 6:30:17 PM - Pokretanje glavnog izbornika
+1/12/20 6:30:17 PM - Prijava korisnika: m
+1/12/20 6:30:18 PM - Prikaz rang liste
+1/12/20 6:53:17 PM - Pokretanje programa
+1/12/20 6:53:21 PM - Pokretanje glavnog izbornika
+1/12/20 6:53:21 PM - Prijava korisnika: m
+1/12/20 6:53:23 PM - Prikaz rang liste
+1/12/20 6:56:49 PM - Pokretanje programa
+1/12/20 6:56:50 PM - Pokretanje glavnog izbornika
+1/12/20 6:56:50 PM - Prijava korisnika: m
+1/12/20 6:56:51 PM - Prikaz rang liste
+1/12/20 6:57:16 PM - Pokretanje programa
+1/12/20 6:57:17 PM - Pokretanje glavnog izbornika
+1/12/20 6:57:17 PM - Prijava korisnika: m
+1/12/20 6:57:18 PM - Prikaz rang liste
+1/12/20 6:57:37 PM - Pokretanje programa
+1/12/20 6:57:38 PM - Pokretanje glavnog izbornika
+1/12/20 6:57:38 PM - Prijava korisnika: m
+1/12/20 6:57:39 PM - Prikaz rang liste
+1/12/20 7:05:17 PM - Pokretanje programa
+1/12/20 7:05:19 PM - Pokretanje glavnog izbornika
+1/12/20 7:05:19 PM - Prijava korisnika: m
+1/12/20 7:05:22 PM - Prikaz rang liste
+1/12/20 7:06:42 PM - Pokretanje programa
+1/12/20 7:06:43 PM - Pokretanje glavnog izbornika
+1/12/20 7:06:43 PM - Prijava korisnika: m
+1/12/20 7:06:44 PM - Prikaz rang liste
+1/12/20 7:33:02 PM - Pokretanje programa
+1/12/20 7:33:04 PM - Pokretanje glavnog izbornika
+1/12/20 7:33:04 PM - Prijava korisnika: m
+1/12/20 7:33:06 PM - Prikaz rang liste
+1/12/20 7:33:58 PM - Pokretanje programa
+1/12/20 7:34:01 PM - Pokretanje glavnog izbornika
+1/12/20 7:34:01 PM - Prijava korisnika: m
+1/12/20 7:34:02 PM - Prikaz rang liste
+1/12/20 7:34:27 PM - Pokretanje programa
+1/12/20 7:34:29 PM - Pokretanje glavnog izbornika
+1/12/20 7:34:29 PM - Prijava korisnika: m
+1/12/20 7:34:30 PM - Prikaz rang liste
+1/12/20 7:35:24 PM - Pokretanje programa
+1/12/20 7:35:25 PM - Pokretanje glavnog izbornika
+1/12/20 7:35:25 PM - Prijava korisnika: m
+1/12/20 7:35:26 PM - Prikaz rang liste
+1/12/20 7:40:39 PM - Pokretanje programa
+1/12/20 7:40:40 PM - Pokretanje glavnog izbornika
+1/12/20 7:40:40 PM - Prijava korisnika: m
+1/12/20 7:40:41 PM - Prikaz rang liste
+1/12/20 7:41:20 PM - Pokretanje programa
+1/12/20 7:41:23 PM - Pokretanje glavnog izbornika
+1/12/20 7:41:23 PM - Prijava korisnika: m
+1/12/20 7:41:24 PM - Prikaz rang liste
+1/12/20 7:49:39 PM - Pokretanje programa
+1/12/20 7:49:41 PM - Pokretanje glavnog izbornika
+1/12/20 7:49:41 PM - Prijava korisnika: m
+1/12/20 7:49:42 PM - Prikaz rang liste
+1/12/20 7:54:34 PM - Pokretanje programa
+1/12/20 7:54:48 PM - Pokretanje programa
+1/12/20 7:55:02 PM - Pokretanje glavnog izbornika
+1/12/20 7:55:02 PM - Prijava korisnika: m
+1/12/20 7:55:03 PM - Prikaz rang liste
+1/12/20 7:55:33 PM - Pokretanje programa
+1/12/20 7:55:35 PM - Pokretanje glavnog izbornika
+1/12/20 7:55:35 PM - Prijava korisnika: m
+1/12/20 7:55:36 PM - Prikaz rang liste
+1/12/20 7:55:53 PM - Pokretanje programa
+1/12/20 7:55:55 PM - Pokretanje glavnog izbornika
+1/12/20 7:55:55 PM - Prijava korisnika: m
+1/12/20 7:55:56 PM - Prikaz rang liste
+1/12/20 8:00:01 PM - Pokretanje programa
+1/12/20 8:00:08 PM - Pokretanje glavnog izbornika
+1/12/20 8:00:08 PM - Prijava korisnika: m
+1/12/20 8:00:09 PM - Prikaz rang liste
+1/12/20 8:01:03 PM - Pokretanje programa
+1/12/20 8:01:04 PM - Pokretanje glavnog izbornika
+1/12/20 8:01:04 PM - Prijava korisnika: m
+1/12/20 8:01:04 PM - Prikaz rang liste
+1/12/20 8:01:56 PM - Pokretanje programa
+1/12/20 8:02:00 PM - Pokretanje glavnog izbornika
+1/12/20 8:02:00 PM - Prijava korisnika: m
+1/12/20 8:02:01 PM - Prikaz rang liste
+1/12/20 8:02:29 PM - Pokretanje programa
+1/12/20 8:02:30 PM - Pokretanje glavnog izbornika
+1/12/20 8:02:30 PM - Prijava korisnika: m
+1/12/20 8:02:32 PM - Prikaz rang liste
+1/12/20 8:02:52 PM - Pokretanje programa
+1/12/20 8:02:54 PM - Pokretanje glavnog izbornika
+1/12/20 8:02:54 PM - Prijava korisnika: m
+1/12/20 8:02:55 PM - Prikaz rang liste
+1/12/20 8:03:12 PM - Pokretanje programa
+1/12/20 8:03:13 PM - Pokretanje glavnog izbornika
+1/12/20 8:03:13 PM - Prijava korisnika: m
+1/12/20 8:03:14 PM - Prikaz rang liste
+1/12/20 8:05:08 PM - Pokretanje programa
+1/12/20 8:05:11 PM - Pokretanje glavnog izbornika
+1/12/20 8:05:11 PM - Prijava korisnika: m
+1/12/20 8:05:12 PM - Prikaz rang liste
+1/12/20 8:06:28 PM - Pokretanje programa
+1/12/20 8:06:30 PM - Pokretanje glavnog izbornika
+1/12/20 8:06:30 PM - Prijava korisnika: m
+1/12/20 8:06:31 PM - Prikaz rang liste
+1/12/20 8:06:47 PM - Pokretanje programa
+1/12/20 8:06:48 PM - Pokretanje glavnog izbornika
+1/12/20 8:06:48 PM - Prijava korisnika: m
+1/12/20 8:06:52 PM - Prikaz rang liste
+1/12/20 8:07:19 PM - Pokretanje programa
+1/12/20 8:07:20 PM - Pokretanje glavnog izbornika
+1/12/20 8:07:20 PM - Prijava korisnika: m
+1/12/20 8:07:21 PM - Prikaz rang liste
+1/12/20 8:07:36 PM - Pokretanje programa
+1/12/20 8:07:38 PM - Pokretanje glavnog izbornika
+1/12/20 8:07:38 PM - Prijava korisnika: m
+1/12/20 8:07:39 PM - Prikaz rang liste
+1/12/20 8:08:12 PM - Pokretanje programa
+1/12/20 8:08:13 PM - Pokretanje glavnog izbornika
+1/12/20 8:08:13 PM - Prijava korisnika: m
+1/12/20 8:08:14 PM - Prikaz rang liste
+1/12/20 8:08:45 PM - Pokretanje programa
+1/12/20 8:08:46 PM - Pokretanje glavnog izbornika
+1/12/20 8:08:46 PM - Prijava korisnika: m
+1/12/20 8:08:47 PM - Prikaz rang liste
+1/12/20 8:09:24 PM - Pokretanje programa
+1/12/20 8:09:27 PM - Pokretanje glavnog izbornika
+1/12/20 8:09:27 PM - Prijava korisnika: m
+1/12/20 8:09:28 PM - Prikaz rang liste
+1/12/20 8:10:55 PM - Pokretanje programa
+1/12/20 8:10:55 PM - Pokretanje glavnog izbornika
+1/12/20 8:10:55 PM - Prijava korisnika: m
+1/12/20 8:10:56 PM - Prikaz rang liste
+1/12/20 8:11:57 PM - Pokretanje programa
+1/12/20 8:11:58 PM - Pokretanje glavnog izbornika
+1/12/20 8:11:58 PM - Prijava korisnika: m
+1/12/20 8:11:59 PM - Prikaz rang liste
+1/12/20 8:14:52 PM - Pokretanje programa
+1/12/20 8:14:53 PM - Pokretanje glavnog izbornika
+1/12/20 8:14:53 PM - Prijava korisnika: m
+1/12/20 8:14:54 PM - Prikaz rang liste
+1/12/20 8:15:11 PM - Pokretanje glavnog izbornika
+1/12/20 8:15:11 PM - Prijava korisnika: m
+1/12/20 8:15:13 PM - Pokrenuta simulacija utakmica
+1/12/20 8:15:14 PM - Pokretanje glavnog izbornika
+1/12/20 8:15:14 PM - Prijava korisnika: m
+1/12/20 8:15:17 PM - Prikaz rang liste
+1/12/20 8:15:38 PM - Pokretanje glavnog izbornika
+1/12/20 8:15:38 PM - Prijava korisnika: m
+1/12/20 8:15:39 PM - Pokrenuta simulacija utakmica
+1/12/20 8:15:41 PM - Pokretanje glavnog izbornika
+1/12/20 8:15:41 PM - Prijava korisnika: m
+1/12/20 8:15:42 PM - Prikaz rang liste
