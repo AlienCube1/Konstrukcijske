@@ -15,7 +15,6 @@
 /home/marcel/Documents/codes/konstruk/bin/Debug/netcoreapp2.2/konstruk.dll
 /home/marcel/Documents/codes/konstruk/bin/Debug/netcoreapp2.2/konstruk.pdb
 /home/marcel/Documents/codes/konstruk/obj/Debug/netcoreapp2.2/konstruk.csprojAssemblyReference.cache
-/home/marcel/Documents/codes/konstruk/obj/Debug/netcoreapp2.2/konstruk.csproj.CoreCompileInputs.cache
 /home/marcel/Documents/codes/konstruk/obj/Debug/netcoreapp2.2/konstruk.AssemblyInfoInputs.cache
 /home/marcel/Documents/codes/konstruk/obj/Debug/netcoreapp2.2/konstruk.AssemblyInfo.cs
 /home/marcel/Documents/codes/konstruk/obj/Debug/netcoreapp2.2/konstruk.dll

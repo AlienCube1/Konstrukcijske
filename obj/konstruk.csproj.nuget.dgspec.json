@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marcel/Documents/codes/konstruk/konstruk.csproj": {}
+  },
+  "projects": {
+    "/home/marcel/Documents/codes/konstruk/konstruk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marcel/Documents/codes/konstruk/konstruk.csproj",
+        "projectName": "konstruk",
+        "projectPath": "/home/marcel/Documents/codes/konstruk/konstruk.csproj",
+        "packagesPath": "/home/marcel/.nuget/packages/",
+        "outputPath": "/home/marcel/Documents/codes/konstruk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2.109"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2.109": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2.109": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.109, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

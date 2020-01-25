@@ -28,6 +28,7 @@ namespace konstruk
 
        */
        ////Funkcija koja prikazuje izbornik
+        public static bool alredy_active = false;
         public static void izbornik(){
             Console.WriteLine("1 - Ažuriraj klubove");
             Console.WriteLine("2 - Ažuriraj igrače");
@@ -43,6 +44,7 @@ namespace konstruk
             ConsoleKeyInfo key;
             key = Console.ReadKey();
             if(key.Key == ConsoleKey.Enter){
+                alredy_active = true;
                 izbornik();
             }
             else if(key.Key == ConsoleKey.Escape){
@@ -549,12 +551,13 @@ static string AlignCentre(string text, int width)
 
         ////Funkcija koja prikazuje rang listu i poredak koji se temelji na rezultati.xml
         ////Sve se dodaje u liste, iz lista se cita te se liste na kraju obrisu
-        public static void rang_lista(){
-            string putanja = @"logovi.txt";
-            StreamWriter oFile = new StreamWriter(putanja, true);
-            oFile.Write(DateTime.Now + " - Prikaz rang liste" + "\n");
-            oFile.Flush();
-            oFile.Close();
+public static void rang_lista(){
+    string putanja = @"logovi.txt";
+    StreamWriter oFile = new StreamWriter(putanja, true);
+        
+        oFile.Write(DateTime.Now + " - Prikaz rang liste" + "\n");
+        oFile.Flush();
+        oFile.Close();
 
         int redni_broj = 0;
         XmlDocument print_klub = new XmlDocument();
@@ -729,7 +732,7 @@ static string AlignCentre(string text, int width)
         } //<--Foreach zagrada
         } //<--Try zagrada
         catch{
-            Console.WriteLine("Ni ovdje ne valja");
+            
         }
         PrintRow("R.Br","Klub", "Broj utakmica", "Bodovi", "Pobjeda", "Nerijeseno", "Gol razlika");
         int rdni_broj = 0;
@@ -783,7 +786,7 @@ static string AlignCentre(string text, int width)
         }
         }
         catch{
-            Console.WriteLine("Nes ne valja");
+          
         }
 
 
@@ -832,6 +835,7 @@ static string AlignCentre(string text, int width)
         ////mjenja odlogiraj u true i vraca se ponovno na unesite ime i lozinku.
         public static bool odlogiraj(bool da){
             if(da == true){
+                alredy_active = false;
                 return true;
                 }
             return false;
@@ -853,14 +857,13 @@ static string AlignCentre(string text, int width)
 
             while(true) {
             if(logged_in == false)
-{
+            {
             Console.WriteLine("Unesi korisnicko ime: ");
             Console.WriteLine("Unesi lozinku: ");
             
             username = Console.ReadLine();
             password = Console.ReadLine();
-
-}            
+            }            
           
             
             if(odlogiraj(logout)==false){
@@ -869,8 +872,11 @@ static string AlignCentre(string text, int width)
 
             if(login(username,password) == true){ 
             logged_in=true;
+            int test = 0;
+            test = test+1;
+            if(alredy_active!=true){
             izbornik();
-            
+            }
             StreamWriter oFilee = new StreamWriter(putanja, true);
             oFilee.Write(DateTime.Now + " - Pokretanje glavnog izbornika" + "\n" +DateTime.Now +" - Prijava korisnika: " + username + "\n");
             oFilee.Flush();

@@ -2336,3 +2336,124 @@
 1/12/20 8:15:41 PM - Pokretanje glavnog izbornika
 1/12/20 8:15:41 PM - Prijava korisnika: m
 1/12/20 8:15:42 PM - Prikaz rang liste
+1/12/20 9:14:16 PM - Pokretanje programa
+1/12/20 9:14:20 PM - Pokretanje glavnog izbornika
+1/12/20 9:14:20 PM - Prijava korisnika: m
+1/12/20 9:14:21 PM - Prikaz rang liste
+1/12/20 9:16:38 PM - Pokretanje glavnog izbornika
+1/12/20 9:16:38 PM - Prijava korisnika: m
+1/12/20 9:16:43 PM - Pokrenuta simulacija utakmica
+1/12/20 9:16:45 PM - Pokretanje glavnog izbornika
+1/12/20 9:16:45 PM - Prijava korisnika: m
+1/12/20 9:16:47 PM - Prikaz rang liste
+1/13/20 2:29:50 PM - Pokretanje programa
+1/13/20 2:29:57 PM - Pokretanje glavnog izbornika
+1/13/20 2:29:57 PM - Prijava korisnika: m
+1/13/20 2:30:18 PM - Prikaz rang liste
+1/13/20 2:31:12 PM - Pokretanje programa
+1/13/20 2:31:26 PM - Pokretanje glavnog izbornika
+1/13/20 2:31:26 PM - Prijava korisnika: m
+1/13/20 2:31:27 PM - Prikaz rang liste
+1/13/20 2:32:05 PM - Pokretanje glavnog izbornika
+1/13/20 2:32:05 PM - Prijava korisnika: m
+1/13/20 2:32:07 PM - Pokrenuta simulacija utakmica
+1/13/20 2:32:08 PM - Pokretanje glavnog izbornika
+1/13/20 2:32:08 PM - Prijava korisnika: m
+1/13/20 2:32:10 PM - Prikaz rang liste
+1/13/20 2:33:28 PM - Pokretanje programa
+1/13/20 2:38:26 PM - Pokretanje glavnog izbornika
+1/13/20 2:38:26 PM - Prijava korisnika: m
+1/13/20 2:38:30 PM - Prikaz rang liste
+1/13/20 2:39:03 PM - Pokretanje glavnog izbornika
+1/13/20 2:39:03 PM - Prijava korisnika: m
+1/13/20 2:39:04 PM - Odabran prikaz klubova i igraca
+1/13/20 2:39:41 PM - Pokretanje glavnog izbornika
+1/13/20 2:39:41 PM - Prijava korisnika: m
+1/13/20 2:39:52 PM - Prikaz rang liste
+1/13/20 2:39:53 PM - Pokretanje glavnog izbornika
+1/13/20 2:39:53 PM - Prijava korisnika: m
+1/13/20 2:39:59 PM - Prikaz rang liste
+1/13/20 2:40:02 PM - Pokretanje glavnog izbornika
+1/13/20 2:40:02 PM - Prijava korisnika: m
+1/13/20 2:40:14 PM - Prikaz rang liste
+1/13/20 2:40:15 PM - Pokretanje glavnog izbornika
+1/13/20 2:40:15 PM - Prijava korisnika: m
+1/13/20 2:40:18 PM - Odabran prikaz klubova i igraca
+1/13/20 2:40:18 PM - Pokretanje glavnog izbornika
+1/13/20 2:40:18 PM - Prijava korisnika: m
+1/13/20 2:41:13 PM - Prikaz rang liste
+1/13/20 2:43:50 PM - Pokretanje glavnog izbornika
+1/13/20 2:43:50 PM - Prijava korisnika: m
+1/13/20 2:43:56 PM - Odjava korisnika m
+1/17/20 12:02:41 PM - Pokretanje programa
+1/17/20 12:02:44 PM - Pokretanje glavnog izbornika
+1/17/20 12:02:44 PM - Prijava korisnika: m
+1/17/20 12:02:46 PM - Prikaz rang liste
+1/17/20 12:02:48 PM - Pokretanje glavnog izbornika
+1/17/20 12:02:48 PM - Prijava korisnika: m
+1/17/20 12:02:58 PM - Odabran prikaz klubova i igraca
+1/17/20 12:02:59 PM - Pokretanje glavnog izbornika
+1/17/20 12:02:59 PM - Prijava korisnika: m
+1/17/20 12:06:02 PM - Prikaz rang liste
+1/17/20 12:06:03 PM - Pokretanje glavnog izbornika
+1/17/20 12:06:03 PM - Prijava korisnika: m
+1/17/20 12:06:41 PM - Pokretanje programa
+1/17/20 12:06:42 PM - Pokretanje glavnog izbornika
+1/17/20 12:06:42 PM - Prijava korisnika: m
+1/17/20 12:06:44 PM - Prikaz rang liste
+1/17/20 12:06:46 PM - Pokretanje glavnog izbornika
+1/17/20 12:06:46 PM - Prijava korisnika: m
+1/17/20 12:07:34 PM - Pokretanje programa
+1/17/20 12:07:36 PM - Pokretanje glavnog izbornika
+1/17/20 12:07:36 PM - Prijava korisnika: m
+1/17/20 12:09:10 PM - Pokretanje programa
+1/17/20 12:09:11 PM - Pokretanje glavnog izbornika
+1/17/20 12:09:11 PM - Prijava korisnika: m
+1/17/20 12:09:14 PM - Prikaz rang liste
+1/17/20 12:09:15 PM - Pokretanje glavnog izbornika
+1/17/20 12:09:15 PM - Prijava korisnika: m
+1/17/20 12:11:01 PM - Pokretanje programa
+1/17/20 12:11:03 PM - Pokretanje glavnog izbornika
+1/17/20 12:11:03 PM - Prijava korisnika: m
+1/17/20 12:11:04 PM - Prikaz rang liste
+1/17/20 12:11:05 PM - Pokretanje glavnog izbornika
+1/17/20 12:11:05 PM - Prijava korisnika: m
+1/17/20 12:13:20 PM - Pokretanje programa
+1/17/20 12:13:26 PM - Pokretanje glavnog izbornika
+1/17/20 12:13:26 PM - Prijava korisnika: m
+1/17/20 12:13:27 PM - Prikaz rang liste
+1/17/20 12:13:29 PM - Pokretanje glavnog izbornika
+1/17/20 12:13:29 PM - Prijava korisnika: m
+1/17/20 12:13:33 PM - Odabran prikaz klubova i igraca
+1/17/20 12:13:37 PM - Pokretanje glavnog izbornika
+1/17/20 12:13:37 PM - Prijava korisnika: m
+1/17/20 12:13:39 PM - Odjava korisnika m
+1/17/20 12:13:40 PM - Pokretanje glavnog izbornika
+1/17/20 12:13:40 PM - Prijava korisnika: m
+1/17/20 12:14:08 PM - Pokretanje programa
+1/17/20 12:14:09 PM - Pokretanje glavnog izbornika
+1/17/20 12:14:09 PM - Prijava korisnika: m
+1/17/20 12:14:12 PM - Prikaz rang liste
+1/17/20 12:14:13 PM - Pokretanje glavnog izbornika
+1/17/20 12:14:13 PM - Prijava korisnika: m
+1/17/20 12:14:16 PM - Odabran prikaz klubova i igraca
+1/17/20 12:14:17 PM - Pokretanje glavnog izbornika
+1/17/20 12:14:17 PM - Prijava korisnika: m
+1/17/20 12:14:20 PM - Odjava korisnika m
+1/17/20 12:14:21 PM - Pokretanje glavnog izbornika
+1/17/20 12:14:21 PM - Prijava korisnika: m
+1/17/20 12:15:31 PM - Odabran prikaz klubova i igraca
+1/17/20 12:15:32 PM - Pokretanje glavnog izbornika
+1/17/20 12:15:32 PM - Prijava korisnika: m
+1/17/20 12:16:07 PM - Pokretanje programa
+1/17/20 12:16:07 PM - Pokretanje glavnog izbornika
+1/17/20 12:16:07 PM - Prijava korisnika: m
+1/17/20 12:16:09 PM - Prikaz rang liste
+1/17/20 12:16:10 PM - Pokretanje glavnog izbornika
+1/17/20 12:16:10 PM - Prijava korisnika: m
+1/17/20 12:16:12 PM - Odjava korisnika m
+1/17/20 12:16:13 PM - Pokretanje glavnog izbornika
+1/17/20 12:16:13 PM - Prijava korisnika: m
+1/17/20 12:16:16 PM - Odabran prikaz klubova i igraca
+1/17/20 12:16:18 PM - Pokretanje glavnog izbornika
+1/17/20 12:16:18 PM - Prijava korisnika: m
